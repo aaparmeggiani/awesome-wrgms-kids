@@ -11,7 +11,7 @@ Our best *ptr's, for the next generation of wrgmrs ..
 * [Coding](#coding)
 * [Electronics](#electronics)
 * [Robotics](#robotics)
-* [IoT](#IoT)
+* [IoT](#iot)
 * [Hacking](#hacking)
 * [Education](#education)
 * [TED Talks](#ted-talks)
