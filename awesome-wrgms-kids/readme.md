@@ -56,7 +56,7 @@ Our best *ptr's, for the next generation of wrgmrs ..
 * [Hackaday.com](http://hackaday.com)
 * [Hackaday.io](http://hackaday.io)
 * [Hackerspaces](http://hackerspaces.org)  ([documentary](https://www.youtube.com/watch?v=t8up7Wm-LAE))
-* [Hacksters.io](https://www.hackster.io) - Makers network
+* [Hacksters.io](https://www.hackster.io) - The world's hardware developer network.
 
 ## Education
 * [Mensa for Kids](http://www.mensaforkids.org)
