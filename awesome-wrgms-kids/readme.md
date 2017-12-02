@@ -49,12 +49,14 @@ Our best *ptr's, for the next generation of wrgmrs ..
 
 ## IoT
 * [Twine](https://www.kickstarter.com/projects/supermechanical/twine-listen-to-your-world-talk-to-the-internet) - Listen to your world, talk to the Internet
+* [PaperSignals]https://papersignals.withgoogle.com - build-it-yourself objects that you control with your voice. (Google)
 
 
 ## Hacking
 * [Hackaday.com](http://hackaday.com)
 * [Hackaday.io](http://hackaday.io)
 * [Hackerspaces](http://hackerspaces.org)  ([documentary](https://www.youtube.com/watch?v=t8up7Wm-LAE))
+* [Hacksters.io][https://www.hackster.io] - Makers network
 
 ## Education
 * [Mensa for Kids](http://www.mensaforkids.org)
