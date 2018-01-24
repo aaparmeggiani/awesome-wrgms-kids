@@ -2,7 +2,7 @@
 
 Our best *ptr's, for the next generation of wrgmrs .. 
 
-"I want to sell millions of toys, but what I really hope is that a bunch of kids who open them up use the motors and things to build something else .. They are my colleagues of the future." 
+_"I want to sell millions of toys, but what I really hope is that a bunch of kids who open them up use the motors and things to build something else .. They are my colleagues of the future."_
 -- Mark Tilden
 
 
@@ -12,9 +12,12 @@ Our best *ptr's, for the next generation of wrgmrs ..
 * [Electronics](#electronics)
 * [Robotics](#robotics)
 * [IoT](#iot)
+* [Other Kits](#other-kits)
 * [Hacking](#hacking)
+* [Music](#music)
 * [Education](#education)
 * [TED Talks](#ted-talks)
+* [Merchandise](#merchandise)
 * [More Awesome Kids](#more-awesome-kids)
 
 
@@ -30,6 +33,7 @@ Our best *ptr's, for the next generation of wrgmrs ..
 * [BitsBox](https://bitsbox.com) - Monthly coding projects
 * [Daisy the Dinossaur](https://itunes.apple.com/us/app/daisy-the-dinosaur/id490514278) - basics of programming
 * [Primo Toys](https://www.primotoys.com)
+* [CoderDojo](http://coderdojo.com) - global volunteer-led community of free programming clubs for young people between 7 and 17
 
 #### Languages
 * [KidsRuby](http://kidsruby.com) - 
@@ -51,12 +55,17 @@ Our best *ptr's, for the next generation of wrgmrs ..
 * [Twine](https://www.kickstarter.com/projects/supermechanical/twine-listen-to-your-world-talk-to-the-internet) - Listen to your world, talk to the Internet
 * [PaperSignals](https://papersignals.withgoogle.com) - build-it-yourself objects that you control with your voice. (Google)
 
+## Other Kits
+[Kano](https://kano.me) - Make your own computer
 
 ## Hacking
 * [Hackaday.com](http://hackaday.com)
 * [Hackaday.io](http://hackaday.io)
 * [Hackerspaces](http://hackerspaces.org)  ([documentary](https://www.youtube.com/watch?v=t8up7Wm-LAE))
 * [Hacksters.io](https://www.hackster.io) - The world's hardware developer network.
+
+## Music
+* [BlipBlox](http://blipblox.com) - A synthesizer and beatbox designed to promote creativity and audio exploration. 
 
 ## Education
 * [Mensa for Kids](http://www.mensaforkids.org)
@@ -71,6 +80,10 @@ Our best *ptr's, for the next generation of wrgmrs ..
 * [Easy DIY projects for kid engineers](http://www.ted.com/talks/fawn_qiu_easy_diy_projects_for_kid_engineers)
 * [The linguistic genius of babies](http://www.ted.com/talks/patricia_kuhl_the_linguistic_genius_of_babies.html)
 
+## Merchandise
+* [Octocat Baby](https://github.myshopify.com/collections/all-products/products/octocat-one-piece) - Yep, that's my team ;)
+* [Octocat Tee](https://github.myshopify.com/products/kids-octocat-t-shirt)
+* [Google Merchandise Store / Kids](https://shop.googlemerchandisestore.com/Google+Redesign/Apparel/Kids)
 
 ## More Awesome Kids
 * [Awesome Kids](https://github.com/moacirosa/awesome-kids)
