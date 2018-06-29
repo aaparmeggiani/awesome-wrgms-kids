@@ -26,6 +26,8 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Goldieblox](https://www.goldieblox.com) - Award-winning construction toys for girls! #MoreThanJustAPrincess
 * [Marbleocity Coasters](https://tinkineer.com) - “marble machine” kits which introduce physics concepts / engineering mechanisms.
 * [Wonderbly](http://wonderbly.com) - Personalised books (former LostMyName)
+* [TootScoot](http://tootscoot.com) - my first bike (?)
+* [Pixlplay](http://pixltoys.com) - my first camera (?)
 
 
 ## Coding
@@ -56,7 +58,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [PaperSignals](https://papersignals.withgoogle.com) - build-it-yourself objects that you control with your voice. (Google)
 
 ## Other Kits
-[Kano](https://kano.me) - Make your own computer
+* [Kano](https://kano.me) - Make your own computer
 
 ## Hacking
 * [Hackaday.com](http://hackaday.com)
@@ -65,7 +67,8 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Hacksters.io](https://www.hackster.io) - The world's hardware developer network.
 
 ## Music
-* [BlipBlox](http://blipblox.com) - A synthesizer and beatbox designed to promote creativity and audio exploration. 
+* [BlipBlox](http://blipblox.com) - A synthesizer and beatbox designed to promote creativity and audio exploration.
+* [Circuit Bending](https://www.youtube.com/watch?v=kJfTdD_5XyE) - DIY/maker version of BlipBlox ;-)
 
 ## Education
 * [Mensa for Kids](http://www.mensaforkids.org)
@@ -84,6 +87,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Octocat Baby](https://github.myshopify.com/collections/all-products/products/octocat-one-piece) - Yep, that's my team ;)
 * [Octocat Tee](https://github.myshopify.com/products/kids-octocat-t-shirt)
 * [Google Merchandise Store / Kids](https://shop.googlemerchandisestore.com/Google+Redesign/Apparel/Kids)
+* [Goldieblox](https://www.goldieblox.com/collections/apparel) - #MoreThanJustAPrincess
 
 ## More Awesome Kids
 * [Awesome Kids](https://github.com/moacirosa/awesome-kids)
