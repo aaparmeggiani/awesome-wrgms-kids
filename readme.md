@@ -1,7 +1,5 @@
 # Awesome Wrgms Kids
 
-Our best *ptr's, for the next generation of wrgmrs .. 
-
 _"I want to sell millions of toys, but what I really hope is that a bunch of kids who open them up use the motors and things to build something else .. They are my colleagues of the future."_
 -- Mark Tilden
 
@@ -19,6 +17,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Music](#music)
 * [Education](#education)
 * [TED Talks](#ted-talks)
+* [Movies](#movies)
 * [Merchandise](#merchandise)
 * [More Awesome Kids](#more-awesome-kids)
 
@@ -49,14 +48,17 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [LEGO Coding Express](https://education.lego.com/en-us/products/coding-express/45025) - Inspire early learners to explore early coding concepts
 * [PICO-8](https://www.lexaloffle.com/pico-8.php) - Fantasy console for making, sharing and playing tiny games. Also [Awesome-PICO-8](https://github.com/felipebueno/awesome-PICO-8)
 
+
 #### Languages
 * [KidsRuby](http://kidsruby.com) - 
 * [Scratch](https://scratch.mit.edu/) ([wiki](https://wiki.scratch.mit.edu/wiki/Scratch_Wiki_Home)) - visual programming language developed by the MIT Media Lab.
+* [ScratchJr](https://www.scratchjr.org/) - Scratch for 5-7 year olds.
 * [HacketyHack](https://en.wikipedia.org/wiki/Hackety_Hack) - Gone?
 
 
 ## Electronics
 * [ShenZhen I/O](http://www.zachtronics.com/shenzhen-io/) - Build real world cicuits
+
 
 ## Games
 * [Think Fun](https://www.thinkfun.com) - Empowering minds through Play.
@@ -94,7 +96,6 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 with studio quality sound.
 
 
-
 ## Education
 * [Mensa for Kids](http://www.mensaforkids.org)
 * [Montessori](https://en.wikipedia.org/wiki/Montessori_education)
@@ -107,6 +108,11 @@ with studio quality sound.
 ##### Selection:
 * [Easy DIY projects for kid engineers](http://www.ted.com/talks/fawn_qiu_easy_diy_projects_for_kid_engineers)
 * [The linguistic genius of babies](http://www.ted.com/talks/patricia_kuhl_the_linguistic_genius_of_babies.html)
+
+
+## Movies
+* [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/)
+* [Wargames](https://www.imdb.com/title/tt0086567/)
 
 
 ## Merchandise
