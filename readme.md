@@ -38,6 +38,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Rosie Revere, Engineer](https://www.amazon.co.uk/Rosie-Revere-Engineer-Andrea-Beaty/dp/1419708457/)
 * [Iggy Peck, Architect](https://www.amazon.co.uk/Iggy-Peck-Architect-Andrea-Beaty/dp/081091106X/)
 * [Ada Twist, Scientist](https://www.amazon.co.uk/Ada-Twist-Scientist-Andrea-Beaty/dp/1419721372/)
+* [Glow Kids: How Screen Addiction Is Hijacking Our Kids - and How to Break the Trance](https://www.amazon.com/dp/B01ARS7H5A/)
 
 
 ## Coding
