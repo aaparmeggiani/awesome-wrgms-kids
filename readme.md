@@ -14,6 +14,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [IoT](#iot)
 * [Other Kits](#other-kits)
 * [Hacking](#hacking)
+* [Projects](#projects)
 * [Music](#music)
 * [Education](#education)
 * [TED Talks](#ted-talks)
@@ -87,6 +88,13 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Hackerspaces](http://hackerspaces.org)  ([documentary](https://www.youtube.com/watch?v=t8up7Wm-LAE))
 * [Hacksters.io](https://www.hackster.io) - The world's hardware developer network.
 
+
+## Projects
+* [Make: Magazine](https://makezine.com/projects/) / Projects
+##### selection:
+* [The CoasterDad](https://makezine.com/2015/05/14/a-backyard-roller-coaster-the-whole-family-can-build/) - “Why don’t we build our own roller coaster, Dad?”
+* [Kid's room Spacecraft](https://makezine.com/2014/06/26/making-fun-kids-room-spacecraft/)
+* [Mission Control Desk](https://makezine.com/projects/mission-control-desk/)
 
 ## Music
 * [Bandimal](http://www.yatatoy.com/bandimal) - Your kid's first music composer.
