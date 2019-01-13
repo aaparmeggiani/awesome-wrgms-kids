@@ -19,6 +19,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Education](#education)
 * [TED Talks](#ted-talks)
 * [Movies](#movies)
+* [YouTube Channels](#youtube-channels)
 * [Merchandise](#merchandise)
 * [More Awesome Kids](#more-awesome-kids)
 
@@ -124,6 +125,9 @@ with studio quality sound.
 * [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/)
 * [Wargames](https://www.imdb.com/title/tt0086567/)
 
+
+## YouTube Channels
+* [Crash Couse Kids](https://www.youtube.com/user/crashcoursekids) - From the creators of [Crash Course](https://www.youtube.com/user/crashcourse)
 
 ## Merchandise
 * [Octocat Baby](https://github.myshopify.com/collections/all-products/products/octocat-one-piece) - Yep, that's my team ;)
