@@ -20,7 +20,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [TED Talks](#ted-talks)
 * [Movies](#movies)
 * [YouTube Channels](#youtube-channels)
-* [Merchandise](#merchandise)
+* [Merch](#merch)
 * [More Awesome Kids](#more-awesome-kids)
 
 
@@ -129,10 +129,11 @@ with studio quality sound.
 ## YouTube Channels
 * [Crash Couse Kids](https://www.youtube.com/user/crashcoursekids) - From the creators of [Crash Course](https://www.youtube.com/user/crashcourse)
 
-## Merchandise
+## Merch
 * [Octocat Baby](https://github.myshopify.com/collections/all-products/products/octocat-one-piece) - Yep, that's my team ;)
 * [Octocat Tee](https://github.myshopify.com/products/kids-octocat-t-shirt)
 * [Google Merchandise Store / Kids](https://shop.googlemerchandisestore.com/Google+Redesign/Apparel/Kids)
+* [Shop NASA](https://www.shopnasa.com/)
 
 
 ## More Awesome Kids
