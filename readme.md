@@ -16,6 +16,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Hacking](#hacking)
 * [Projects](#projects)
 * [Music](#music)
+* [STEM](#stem)
 * [Education](#education)
 * [TED Talks](#ted-talks)
 * [Movies](#movies)
@@ -106,6 +107,8 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Pocket Operators](https://teenageengineering.com/now/youtube) - Small, ultra portable music devices,
 with studio quality sound.
 
+## STEM
+* [KiwiCo](kiwico.com) - STEM Projects for Kids of all ages.
 
 ## Education
 * [Mensa for Kids](http://www.mensaforkids.org)
