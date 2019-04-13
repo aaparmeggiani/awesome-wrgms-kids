@@ -16,10 +16,11 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Hacking](#hacking)
 * [Projects](#projects)
 * [Music](#music)
-* [STEM](#stem)
+* [STEAM](#steam)
 * [Education](#education)
 * [TED Talks](#ted-talks)
 * [Movies](#movies)
+* [Documentaries](#documentaries)
 * [YouTube Channels](#youtube-channels)
 * [Merch](#merch)
 * [More Awesome Kids](#more-awesome-kids)
@@ -28,6 +29,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 ## Analog World
 * [IdeaPaint](http://www.ideapaint.com) - Write on your walls!
 * [Goldieblox](https://www.goldieblox.com) - Award-winning construction toys for girls! #MoreThanJustAPrincess
+* [LEGO Simple Machines](https://education.lego.com/en-gb/product/machines-and-mechanisms-elementary) - Discover how the world works.
 * [Marbleocity Coasters](https://tinkineer.com) - “marble machine” kits which introduce physics concepts / engineering mechanisms.
 * [TootScoot](http://tootscoot.com) - my first bike (?)
 * [Pixlplay](http://pixltoys.com) - my first camera (?)
@@ -62,6 +64,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 
 
 ## Electronics
+* [Crazy Circuits](https://www.browndoggadgets.com/pages/crazy-circuits) - Learn and create!
 * [ShenZhen I/O](http://www.zachtronics.com/shenzhen-io/) - Build real world cicuits
 
 
@@ -73,6 +76,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 ## Robotics
 * [LEGO Mindstorms](https://www.lego.com/mindstorms/)
 * [VexRobotics](https://www.vexrobotics.com)
+* [Vincross](https://www.vincross.com) - Can you robot?
 * [Tinkerbots](https://www.tinkerbots.com) - Robot toys
 * [HummingBird / Finch](https://www.birdbraintechnologies.com)
 
@@ -107,8 +111,12 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Pocket Operators](https://teenageengineering.com/now/youtube) - Small, ultra portable music devices,
 with studio quality sound.
 
-## STEM
+## STEAM
+* [Mathigon](https://mathigon.org) - Interactive Maths.
 * [KiwiCo](kiwico.com) - STEM Projects for Kids of all ages.
+* [LEGO Education](https://education.lego.com) : [pre](https://education.lego.com/preschool/intro)
+| [primary](https://education.lego.com/primary/intro)
+| [secondary](https://education.lego.com/secondary/intro)
 
 ## Education
 * [Mensa for Kids](http://www.mensaforkids.org)
@@ -128,6 +136,8 @@ with studio quality sound.
 * [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/)
 * [Wargames](https://www.imdb.com/title/tt0086567/)
 
+## Documentaries
+* [Code Kids](https://www.youtube.com/watch?v=6JGy8zmskbM)
 
 ## YouTube Channels
 * [Crash Couse Kids](https://www.youtube.com/user/crashcoursekids) - From the creators of [Crash Course](https://www.youtube.com/user/crashcourse)
