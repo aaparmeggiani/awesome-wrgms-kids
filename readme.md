@@ -16,7 +16,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Hacking](#hacking)
 * [Projects](#projects)
 * [Music](#music)
-* [STEAM](#steam)
+* [STEM](#stem)
 * [Education](#education)
 * [TED Talks](#ted-talks)
 * [Movies](#movies)
@@ -111,7 +111,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Pocket Operators](https://teenageengineering.com/now/youtube) - Small, ultra portable music devices,
 with studio quality sound.
 
-## STEAM
+## STEM
 * [Mathigon](https://mathigon.org) - Interactive Maths.
 * [KiwiCo](kiwico.com) - STEM Projects for Kids of all ages.
 * [LEGO Education](https://education.lego.com) : [pre](https://education.lego.com/preschool/intro)
