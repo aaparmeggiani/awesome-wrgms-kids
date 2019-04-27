@@ -106,6 +106,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 
 ## Music
 * [Bandimal](http://www.yatatoy.com/bandimal) - Your kid's first music composer.
+* [Sonic Pi](https://sonic-pi.net) - Code Music!
 * [BlipBlox](http://blipblox.com) - A synthesizer and beatbox designed to promote creativity and audio exploration.
 * [Circuit Bending](https://www.youtube.com/watch?v=kJfTdD_5XyE) - DIY/maker version of BlipBlox ;-)
 * [Pocket Operators](https://teenageengineering.com/now/youtube) - Small, ultra portable music devices,
