@@ -75,6 +75,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 
 ## Robotics
 * [LEGO Mindstorms](https://www.lego.com/mindstorms/)
+* [BrickPi](https://www.dexterindustries.com/brickpi/) -  connects LEGO Mindstorms with the Raspberry Pi
 * [VexRobotics](https://www.vexrobotics.com)
 * [Vincross](https://www.vincross.com) - Can you robot?
 * [Tinkerbots](https://www.tinkerbots.com) - Robot toys
