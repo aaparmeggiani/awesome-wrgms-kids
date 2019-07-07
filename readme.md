@@ -76,6 +76,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 ## Robotics
 * [LEGO Mindstorms](https://www.lego.com/mindstorms/)
 * [BrickPi](https://www.dexterindustries.com/brickpi/) -  connects LEGO Mindstorms with the Raspberry Pi
+* [Pi Wars](https://piwars.org) -  International, challenge-based robotics competition 
 * [VexRobotics](https://www.vexrobotics.com)
 * [Vincross](https://www.vincross.com) - Can you robot?
 * [Tinkerbots](https://www.tinkerbots.com) - Robot toys
@@ -124,7 +125,6 @@ with studio quality sound.
 * [Mensa for Kids](http://www.mensaforkids.org)
 * [Montessori](https://en.wikipedia.org/wiki/Montessori_education)
 * [Unschooling](https://en.wikipedia.org/wiki/Unschooling)
-
 
 ## TED Talks
 * [Topic : Children](https://www.ted.com/topics/children) - A collection of TED Talks (and more) on the topic of children.
