@@ -105,6 +105,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [The CoasterDad](https://makezine.com/2015/05/14/a-backyard-roller-coaster-the-whole-family-can-build/) - “Why don’t we build our own roller coaster, Dad?”
 * [Kid's room Spacecraft](https://makezine.com/2014/06/26/making-fun-kids-room-spacecraft/)
 * [Mission Control Desk](https://makezine.com/projects/mission-control-desk/)
+* [Spaceship Panel](https://imgur.com/gallery/dqK7A)
 * [Live Train Station Sign](https://www.balena.io/blog/build-a-raspberry-pi-powered-train-station-oled-sign-for-your-desk/)
 
 ## Music
