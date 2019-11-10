@@ -131,7 +131,7 @@ with studio quality sound.
 
 ## TED Talks
 * [Topic : Children](https://www.ted.com/topics/children) - A collection of TED Talks (and more) on the topic of children.
-* [Search results for _kids_ (> 1700)](https://www.ted.com/search?q=kids)
+* [Search results for _kids_ (> 2000)](https://www.ted.com/search?q=kids)
 ##### Selection:
 * [Easy DIY projects for kid engineers](http://www.ted.com/talks/fawn_qiu_easy_diy_projects_for_kid_engineers)
 * [The linguistic genius of babies](http://www.ted.com/talks/patricia_kuhl_the_linguistic_genius_of_babies.html)
