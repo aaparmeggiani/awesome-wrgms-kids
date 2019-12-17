@@ -11,6 +11,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Electronics](#electronics)
 * [Games](#games)
 * [Robotics](#robotics)
+* [Space](#space)
 * [IoT](#iot)
 * [Other Kits](#other-kits)
 * [Hacking](#hacking)
@@ -55,6 +56,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [CoderDojo](http://coderdojo.com) - global volunteer-led community of free programming clubs for young people between 7 and 17
 * [LEGO Coding Express](https://education.lego.com/en-us/products/coding-express/45025) - Inspire early learners to explore early coding concepts
 * [PICO-8](https://www.lexaloffle.com/pico-8.php) - Fantasy console for making, sharing and playing tiny games. Also [Awesome-PICO-8](https://github.com/felipebueno/awesome-PICO-8)
+* [Code Club](https://projects.raspberrypi.org/en/codeclub) - global network of free coding clubs for 9-13yr olds.
 
 
 #### Languages
@@ -83,6 +85,8 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Tinkerbots](https://www.tinkerbots.com) - Robot toys
 * [HummingBird / Finch](https://www.birdbraintechnologies.com)
 
+## Space
+* [Astro Pi](https://astro-pi.org) - Your code onboard the International Space Station!
 
 ## IoT
 * [Twine](https://www.kickstarter.com/projects/supermechanical/twine-listen-to-your-world-talk-to-the-internet) - Listen to your world, talk to the Internet
@@ -101,6 +105,7 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 
 
 ## Projects
+* [Raspberry Pi](https://projects.raspberrypi.org/)
 * [Make: Magazine](https://makezine.com/projects/) / Projects
 ##### selection:
 * [The CoasterDad](https://makezine.com/2015/05/14/a-backyard-roller-coaster-the-whole-family-can-build/) - “Why don’t we build our own roller coaster, Dad?”
