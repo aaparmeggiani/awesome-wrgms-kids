@@ -163,7 +163,7 @@ with studio quality sound.
 * [Octocat Baby](https://github.myshopify.com/collections/all-products/products/octocat-one-piece) - Yep, that's my team ;)
 * [Octocat Tee](https://github.myshopify.com/products/kids-octocat-t-shirt)
 * [Google Merchandise Kids - US](https://shop.googlemerchandisestore.com/Google+Redesign/Apparel/Kids)
-* [Google Merchandise Kids - EU](https://your.googlemerchandisestore.com/SubCategory/Clothing/Kids%20-and-%20Babies)
+* [Google Merchandise Kids - EU](https://your.googlemerchandisestore.com/SubCategory/Apparel/Kids)
 * [Shop NASA](https://www.shopnasa.com/)
 
 
