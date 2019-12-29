@@ -127,6 +127,7 @@ with studio quality sound.
 * [LEGO Mindstorms](https://www.lego.com/mindstorms/)
 * [BrickPi](https://www.dexterindustries.com/brickpi/) -  connects LEGO Mindstorms with the Raspberry Pi
 * [Pi Wars](https://piwars.org) -  International, challenge-based robotics competition
+* [Root](https://root.irobot.com/) - Coding robot by iRobot
 * [VexRobotics](https://www.vexrobotics.com)
 * [Vincross](https://www.vincross.com) - Can you robot?
 * [Tinkerbots](https://www.tinkerbots.com) - Robot toys
