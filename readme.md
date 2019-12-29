@@ -30,7 +30,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 ## Analog World
 * [IdeaPaint](http://www.ideapaint.com) - Write on your walls!
-* [Goldieblox](https://www.goldieblox.com) - Award-winning construction toys for girls! #MoreThanJustAPrincess
+* [Goldieblox](https://www.goldieblox.com) - Award-winning construction toys for girls! #morethanjustaprincess  #giveagirlatoolbox
 * [LEGO Simple Machines](https://education.lego.com/en-gb/product/machines-and-mechanisms-elementary) - Discover how the world works.
 * [Marbleocity Coasters](https://tinkineer.com) - “marble machine” kits which introduce physics concepts / engineering mechanisms.
 * [TootScoot](http://tootscoot.com) - my first bike (?)
@@ -51,6 +51,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 
 ## Coding
+* [Beanz Magazine](https://www.kidscodecs.com) - Kids, code and computer science magazine
 * [BitsBox](https://bitsbox.com) - Monthly coding projects
 * [Daisy the Dinossaur](https://itunes.apple.com/us/app/daisy-the-dinosaur/id490514278) - basics of programming
 * [Primo Toys](https://www.primotoys.com)
@@ -65,12 +66,15 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Scratch](https://scratch.mit.edu/) ([wiki](https://wiki.scratch.mit.edu/wiki/Scratch_Wiki_Home)) - visual programming language developed by the MIT Media Lab.
 * [ScratchJr](https://www.scratchjr.org/) - Scratch for 5-7 year olds.
 * [HacketyHack](https://en.wikipedia.org/wiki/Hackety_Hack) - Gone?
+* [Logo](https://www.kidscodecs.com/logo-programming-language/)
 
 #### Documentaries
 * [Code Kids](https://www.youtube.com/watch?v=6JGy8zmskbM)
 
 
 ## Computer Kits
+* [Raspberry Pi](https://www.raspberrypi.org/) - series of small single-board computers 
+* [Boolean Box](https://booleangirltech.com) - Computer & coding kit for girls
 * [Kano](https://kano.me) - Make your own computer
 
 
@@ -81,6 +85,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 ## Electronics
 * [Crazy Circuits](https://www.browndoggadgets.com/pages/crazy-circuits) - Learn and create!
+* [Little Bits](https://littlebits.com) - Hands-on electronic building blocks ([video](https://www.youtube.com/watch?v=8H91YN8Wg1o))
 * [ShenZhen I/O](http://www.zachtronics.com/shenzhen-io/) - Build real world cicuits
 
 
@@ -102,6 +107,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Mission Control Desk](https://makezine.com/projects/mission-control-desk/)
 * [Spaceship Panel](https://imgur.com/gallery/dqK7A)
 * [Live Train Station Sign](https://www.balena.io/blog/build-a-raspberry-pi-powered-train-station-oled-sign-for-your-desk/)
+* [Web sites and fairy lights](https://www.youtube.com/watch?v=aAYRClMSUzg)
 
 
 ## IoT
