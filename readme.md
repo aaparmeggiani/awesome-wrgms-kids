@@ -1,29 +1,30 @@
+
+
 # Awesome Wrgms Kids
 
-_"I want to sell millions of toys, but what I really hope is that a bunch of kids who open them up use the motors and things to build something else .. They are my colleagues of the future."_
--- Mark Tilden
+
+_" I want to sell millions of toys, but what I really hope is that a bunch of kids who open them up use the motors and things to build something else... They are my colleagues of the future. "_ -- Mark Tilden
 
 
 ## Contents
 * [Analog World](#analog-world)
 * [Books](#books)
 * [Coding](#coding)
+* [Computer Kits](#computer-kits)
+* [Education](#education)
 * [Electronics](#electronics)
 * [Games](#games)
+* [Hacking Projects](#hacking-projects)
+* [IoT](#iot)
+* [Movies](#movies)
+* [Music](#music)
 * [Robotics](#robotics)
 * [Space](#space)
-* [IoT](#iot)
-* [Other Kits](#other-kits)
-* [Hacking](#hacking)
-* [Projects](#projects)
-* [Music](#music)
 * [STEM](#stem)
-* [Education](#education)
 * [TED Talks](#ted-talks)
-* [Movies](#movies)
-* [Documentaries](#documentaries)
-* [YouTube Channels](#youtube-channels)
-* [Merch](#merch)
+* [YouTube Channels](#youtube-channels)  
+--
+* [Merchandise](#merch)
 * [More Awesome Kids](#more-awesome-kids)
 
 
@@ -65,6 +66,18 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [ScratchJr](https://www.scratchjr.org/) - Scratch for 5-7 year olds.
 * [HacketyHack](https://en.wikipedia.org/wiki/Hackety_Hack) - Gone?
 
+#### Documentaries
+* [Code Kids](https://www.youtube.com/watch?v=6JGy8zmskbM)
+
+
+## Computer Kits
+* [Kano](https://kano.me) - Make your own computer
+
+
+## Education
+* [Mensa for Kids](http://www.mensaforkids.org)
+* [Montessori](https://en.wikipedia.org/wiki/Montessori_education)
+* [Unschooling](https://en.wikipedia.org/wiki/Unschooling)
 
 ## Electronics
 * [Crazy Circuits](https://www.browndoggadgets.com/pages/crazy-circuits) - Learn and create!
@@ -76,35 +89,11 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Circuit Maze](https://www.thinkfun.com/products/circuit-maze) - Arrange the tokens to create a real circuit.
 
 
-## Robotics
-* [LEGO Mindstorms](https://www.lego.com/mindstorms/)
-* [BrickPi](https://www.dexterindustries.com/brickpi/) -  connects LEGO Mindstorms with the Raspberry Pi
-* [Pi Wars](https://piwars.org) -  International, challenge-based robotics competition 
-* [VexRobotics](https://www.vexrobotics.com)
-* [Vincross](https://www.vincross.com) - Can you robot?
-* [Tinkerbots](https://www.tinkerbots.com) - Robot toys
-* [HummingBird / Finch](https://www.birdbraintechnologies.com)
-
-## Space
-* [Astro Pi](https://astro-pi.org) - Your code onboard the International Space Station!
-
-## IoT
-* [Twine](https://www.kickstarter.com/projects/supermechanical/twine-listen-to-your-world-talk-to-the-internet) - Listen to your world, talk to the Internet
-* [PaperSignals](https://papersignals.withgoogle.com) - build-it-yourself objects that you control with your voice. (Google)
-
-
-## Other Kits
-* [Kano](https://kano.me) - Make your own computer
-
-
-## Hacking
+## Hacking Projects
 * [Hackaday.com](http://hackaday.com)
 * [Hackaday.io](http://hackaday.io)
 * [Hackerspaces](http://hackerspaces.org)  ([documentary](https://www.youtube.com/watch?v=t8up7Wm-LAE))
 * [Hacksters.io](https://www.hackster.io) - The world's hardware developer network.
-
-
-## Projects
 * [Raspberry Pi](https://projects.raspberrypi.org/)
 * [Make: Magazine](https://makezine.com/projects/) / Projects
 ##### selection:
@@ -114,6 +103,17 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Spaceship Panel](https://imgur.com/gallery/dqK7A)
 * [Live Train Station Sign](https://www.balena.io/blog/build-a-raspberry-pi-powered-train-station-oled-sign-for-your-desk/)
 
+
+## IoT
+* [Twine](https://www.kickstarter.com/projects/supermechanical/twine-listen-to-your-world-talk-to-the-internet) - Listen to your world, talk to the Internet
+* [PaperSignals](https://papersignals.withgoogle.com) - build-it-yourself objects that you control with your voice. (Google)
+
+
+## Movies
+* [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/)
+* [Wargames](https://www.imdb.com/title/tt0086567/)
+
+
 ## Music
 * [Bandimal](http://www.yatatoy.com/bandimal) - Your kid's first music composer.
 * [Sonic Pi](https://sonic-pi.net) - Learn to code your Music!
@@ -122,6 +122,21 @@ _"I want to sell millions of toys, but what I really hope is that a bunch of kid
 * [Pocket Operators](https://teenageengineering.com/now/youtube) - Small, ultra portable music devices,
 with studio quality sound.
 
+
+## Robotics
+* [LEGO Mindstorms](https://www.lego.com/mindstorms/)
+* [BrickPi](https://www.dexterindustries.com/brickpi/) -  connects LEGO Mindstorms with the Raspberry Pi
+* [Pi Wars](https://piwars.org) -  International, challenge-based robotics competition
+* [VexRobotics](https://www.vexrobotics.com)
+* [Vincross](https://www.vincross.com) - Can you robot?
+* [Tinkerbots](https://www.tinkerbots.com) - Robot toys
+* [HummingBird / Finch](https://www.birdbraintechnologies.com)
+
+
+## Space
+* [Astro Pi](https://astro-pi.org) - Your code onboard the International Space Station!
+
+
 ## STEM
 * [Mathigon](https://mathigon.org) - Interactive Maths.
 * [KiwiCo](kiwico.com) - STEM Projects for Kids of all ages.
@@ -129,10 +144,6 @@ with studio quality sound.
 | [primary](https://education.lego.com/primary/intro)
 | [secondary](https://education.lego.com/secondary/intro)
 
-## Education
-* [Mensa for Kids](http://www.mensaforkids.org)
-* [Montessori](https://en.wikipedia.org/wiki/Montessori_education)
-* [Unschooling](https://en.wikipedia.org/wiki/Unschooling)
 
 ## TED Talks
 * [Topic : Children](https://www.ted.com/topics/children) - A collection of TED Talks (and more) on the topic of children.
@@ -142,15 +153,10 @@ with studio quality sound.
 * [The linguistic genius of babies](http://www.ted.com/talks/patricia_kuhl_the_linguistic_genius_of_babies.html)
 
 
-## Movies
-* [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/)
-* [Wargames](https://www.imdb.com/title/tt0086567/)
-
-## Documentaries
-* [Code Kids](https://www.youtube.com/watch?v=6JGy8zmskbM)
-
 ## YouTube Channels
 * [Crash Couse Kids](https://www.youtube.com/user/crashcoursekids) - From the creators of [Crash Course](https://www.youtube.com/user/crashcourse)
+
+--
 
 ## Merch
 * [Octocat Baby](https://github.myshopify.com/collections/all-products/products/octocat-one-piece) - Yep, that's my team ;)
