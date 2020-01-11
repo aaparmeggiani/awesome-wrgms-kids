@@ -3,11 +3,12 @@
 # Awesome Wrgms Kids
 
 
-_" I want to sell millions of toys, but what I really hope is that a bunch of kids who open them up use the motors and things to build something else... They are my colleagues of the future. "_ -- Mark Tilden
+_" I want to sell millions of toys, but what I really hope is that a bunch of kids who open them up use the motors and things to build something else... They are my colleagues of the future. "_  -- Mark Tilden
 
 
 ## Contents
 * [Analog World](#analog-world)
+* [Animation](#animation)
 * [Books](#books)
 * [Coding](#coding)
 * [Computer Kits](#computer-kits)
@@ -29,19 +30,26 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 
 ## Analog World
-* [IdeaPaint](http://www.ideapaint.com) - Write on your walls!
+* [Microbrite](https://carson.com/products/microbrite-plus-mm-300/) - Mi first microscope (?)
 * [Goldieblox](https://www.goldieblox.com) - Award-winning construction toys for girls! #morethanjustaprincess  #giveagirlatoolbox
-* [LEGO Simple Machines](https://education.lego.com/en-gb/product/machines-and-mechanisms-elementary) - Discover how the world works.
-* [Marbleocity Coasters](https://tinkineer.com) - “marble machine” kits which introduce physics concepts / engineering mechanisms.
-* [TootScoot](http://tootscoot.com) - my first bike (?)
-* [Two Wheeling Tots](https://www.twowheelingtots.com/) - Helping you find the best bikes to your little ones.
+* [IdeaPaint](http://www.ideapaint.com) - Write on your walls!
+* [LEGO Simple Machines](https://education.lego.com/en-gb/product/machines-and-mechanisms-elementary) - Discover how the world works
+* [Makedo](https://int.make.do/) - Cardboard construction toolkit
+* [Marbleocity Coasters](https://tinkineer.com) - “marble machine” kits which introduce physics concepts / engineering mechanisms
+* [Montessori Toys](https://www.thebump.com/a/montessori-toys) - Toys with a purpose
 * [Pixlplay](http://pixltoys.com) - my first camera (?)
-* [Montessori Toys](https://www.thebump.com/a/montessori-toys) - Toys with a purpose.
+* [TootScoot](http://tootscoot.com) - my first bike (?)
+* [Two Wheeling Tots](https://www.twowheelingtots.com/) - Helping you find the best bikes to your little ones
 
+
+## Animation
+* [Brickfilms](https://www.youtube.com/watch?v=byhude3fzAQ) - Lego stop-motion tutorial
+* [Flipbooks](https://www.youtube.com/watch?v=Un-BdBSOGKY) - Flipbook tutorial ([kit](https://flipbook.andymation.shop/shop))
+* [Disney Animation: The Illusion of Life](https://en.wikipedia.org/wiki/Disney_Animation:_The_Illusion_of_Life) - Disney's animation bible.
+* [The Magic of Animation](https://www.youtube.com/watch?v=EVQflnGcx4k) - A look at the 12 principles of animation developed by Disney.
 
 ## Books
 * [Wonderbly](http://wonderbly.com) - Personalised books (former LostMyName)
-* [Hello Ruby: Adventures in Coding](https://www.helloruby.com)
 * [What Do You Do with an Idea?](https://www.amazon.co.uk/What-Do-You-Idea/dp/1938298071/)
 * [Rosie Revere, Engineer](https://www.amazon.co.uk/Rosie-Revere-Engineer-Andrea-Beaty/dp/1419708457/)
 * [Iggy Peck, Architect](https://www.amazon.co.uk/Iggy-Peck-Architect-Andrea-Beaty/dp/081091106X/)
@@ -53,7 +61,9 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 ## Coding
 * [Beanz Magazine](https://www.kidscodecs.com) - Kids, code and computer science magazine
 * [BitsBox](https://bitsbox.com) - Monthly coding projects
+* [Computer Coding](https://www.amazon.com/DK-Workbooks-Computer-Coding/dp/146542685X) - book
 * [Daisy the Dinossaur](https://itunes.apple.com/us/app/daisy-the-dinosaur/id490514278) - basics of programming
+* [Hello Ruby: Adventures in Coding](https://www.helloruby.com) - book
 * [Primo Toys](https://www.primotoys.com)
 * [CoderDojo](http://coderdojo.com) - global volunteer-led community of free programming clubs for young people between 7 and 17
 * [LEGO Coding Express](https://education.lego.com/en-us/products/coding-express/45025) - Inspire early learners to explore early coding concepts
@@ -62,15 +72,18 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 
 #### Languages
+* [Coding Projects in Python](https://www.amazon.com/Coding-Projects-Python-DK/dp/1465461884/) - book
 * [KidsRuby](http://kidsruby.com) - 
+* [Logo](https://www.kidscodecs.com/logo-programming-language/)
 * [Scratch](https://scratch.mit.edu/) ([wiki](https://wiki.scratch.mit.edu/wiki/Scratch_Wiki_Home)) - visual programming language developed by the MIT Media Lab.
 * [ScratchJr](https://www.scratchjr.org/) - Scratch for 5-7 year olds.
 * [HacketyHack](https://en.wikipedia.org/wiki/Hackety_Hack) - Gone?
-* [Logo](https://www.kidscodecs.com/logo-programming-language/)
 
 #### Documentaries
 * [Code Kids](https://www.youtube.com/watch?v=6JGy8zmskbM)
-
+* [Finnish education](https://www.youtube.com/watch?v=XQ_agxK6fLs) - Why Finland has the Best Education
+* [Bill Gates early days](https://www.youtube.com/watch?v=vYXQTrYPenQ) - Bill Gates remembers his early programming career
+* [The Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo) - Achieving Your Childhood Dreams
 
 ## Computer Kits
 * [Raspberry Pi](https://www.raspberrypi.org/) - series of small single-board computers 
