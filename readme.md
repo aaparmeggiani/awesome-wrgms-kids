@@ -97,6 +97,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Unschooling](https://en.wikipedia.org/wiki/Unschooling)
 
 ## Electronics
+* [Circuit Maze](https://www.thinkfun.com/products/circuit-maze) - Arrange the tokens to create a real circuit.
 * [Crazy Circuits](https://www.browndoggadgets.com/pages/crazy-circuits) - Learn and create!
 * [Little Bits](https://littlebits.com) - Hands-on electronic building blocks ([video](https://www.youtube.com/watch?v=8H91YN8Wg1o))
 * [ShenZhen I/O](http://www.zachtronics.com/shenzhen-io/) - Build real world cicuits
@@ -104,7 +105,6 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 ## Games
 * [Think Fun](https://www.thinkfun.com) - Empowering minds through Play.
-* [Circuit Maze](https://www.thinkfun.com/products/circuit-maze) - Arrange the tokens to create a real circuit.
 
 
 ## Hacking Projects
@@ -130,7 +130,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 ## Movies
 * [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/)
-* [Wargames](https://www.imdb.com/title/tt0086567/)
+* [WarGames](https://www.imdb.com/title/tt0086567/)
 
 
 ## Music
