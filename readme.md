@@ -46,14 +46,15 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Brickfilms](https://www.youtube.com/watch?v=byhude3fzAQ) - Lego stop-motion tutorial
 * [Flipbooks](https://www.youtube.com/watch?v=Un-BdBSOGKY) - Flipbook tutorial ([kit](https://flipbook.andymation.shop/shop))
 * [Disney Animation: The Illusion of Life](https://en.wikipedia.org/wiki/Disney_Animation:_The_Illusion_of_Life) - Disney's animation bible.
-* [The Magic of Animation](https://www.youtube.com/watch?v=EVQflnGcx4k) - A look at the 12 principles of animation developed by Disney.
+* [The Magic of Animation](https://www.youtube.com/watch?v=EVQflnGcx4k) - A look at the 12 principles of animation developed by Disney
 
 ## Books
-* [Wonderbly](http://wonderbly.com) - Personalised books (former LostMyName)
-* [What Do You Do with an Idea?](https://www.amazon.co.uk/What-Do-You-Idea/dp/1938298071/)
-* [Rosie Revere, Engineer](https://www.amazon.co.uk/Rosie-Revere-Engineer-Andrea-Beaty/dp/1419708457/)
-* [Iggy Peck, Architect](https://www.amazon.co.uk/Iggy-Peck-Architect-Andrea-Beaty/dp/081091106X/)
 * [Ada Twist, Scientist](https://www.amazon.co.uk/Ada-Twist-Scientist-Andrea-Beaty/dp/1419721372/)
+* [Iggy Peck, Architect](https://www.amazon.co.uk/Iggy-Peck-Architect-Andrea-Beaty/dp/081091106X/)
+* [Rosie Revere, Engineer](https://www.amazon.co.uk/Rosie-Revere-Engineer-Andrea-Beaty/dp/1419708457/)
+* [The Week Junior](https://theweekjunior.co.uk) - printed magazine for children
+* [What Do You Do with an Idea?](https://www.amazon.co.uk/What-Do-You-Idea/dp/1938298071/)
+* [Wonderbly](http://wonderbly.com) - Personalised books (former LostMyName)
 ##### for parents
 * [Glow Kids: How Screen Addiction Is Hijacking Our Kids - and How to Break the Trance](https://www.amazon.com/dp/B01ARS7H5A/)
 
@@ -112,8 +113,9 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Hackaday.io](http://hackaday.io)
 * [Hackerspaces](http://hackerspaces.org)  ([documentary](https://www.youtube.com/watch?v=t8up7Wm-LAE))
 * [Hacksters.io](https://www.hackster.io) - The world's hardware developer network.
-* [Raspberry Pi](https://projects.raspberrypi.org/)
 * [Make: Magazine](https://makezine.com/projects/) / Projects
+* [The Thinkering Studio](https://www.exploratorium.edu/tinkering/projects) / Projects
+* [Raspberry Pi](https://projects.raspberrypi.org/)
 ##### selection:
 * [The CoasterDad](https://makezine.com/2015/05/14/a-backyard-roller-coaster-the-whole-family-can-build/) - “Why don’t we build our own roller coaster, Dad?”
 * [Kid's room Spacecraft](https://makezine.com/2014/06/26/making-fun-kids-room-spacecraft/)
@@ -121,6 +123,8 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Spaceship Panel](https://imgur.com/gallery/dqK7A)
 * [Live Train Station Sign](https://www.balena.io/blog/build-a-raspberry-pi-powered-train-station-oled-sign-for-your-desk/)
 * [Web sites and fairy lights](https://www.youtube.com/watch?v=aAYRClMSUzg)
+* [Marble Machines](https://www.exploratorium.edu/tinkering/projects/marble-machines) ([video](https://vimeo.com/29169944)) ([coursera](https://www.coursera.org/lecture/tinkering-motion-mechanisms/marble-machines-ZwaL1))
+
 
 
 ## IoT
@@ -175,6 +179,7 @@ with studio quality sound.
 
 ## YouTube Channels
 * [Crash Couse Kids](https://www.youtube.com/user/crashcoursekids) - From the creators of [Crash Course](https://www.youtube.com/user/crashcourse)
+* [Elmo Celebritie's songs](https://www.youtube.com/watch?v=pWp6kkz-pnQ&list=PL6IS1VIT4jRAnyBJ7UMx-QGrgtf60zNLj) - by [Sesame Street](https://www.sesamestreet.org)
 
 --
 
