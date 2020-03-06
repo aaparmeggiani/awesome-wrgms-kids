@@ -50,6 +50,8 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 ## Books
 * [Ada Twist, Scientist](https://www.amazon.co.uk/Ada-Twist-Scientist-Andrea-Beaty/dp/1419721372/)
+* [Hello Ruby: Adventures in Coding](https://www.helloruby.com) ([TED Talk](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers?language=en))
+* [Hello Ruby: Journey Inside the Computer](http://www.helloruby.com/books) ([TED Talk](https://www.ted.com/talks/linda_liukas_crawling_into_a_computer))
 * [Iggy Peck, Architect](https://www.amazon.co.uk/Iggy-Peck-Architect-Andrea-Beaty/dp/081091106X/)
 * [Rosie Revere, Engineer](https://www.amazon.co.uk/Rosie-Revere-Engineer-Andrea-Beaty/dp/1419708457/)
 * [The Week Junior](https://theweekjunior.co.uk) - printed magazine for children
@@ -64,7 +66,6 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [BitsBox](https://bitsbox.com) - Monthly coding projects
 * [Computer Coding](https://www.amazon.com/DK-Workbooks-Computer-Coding/dp/146542685X) - book
 * [Daisy the Dinossaur](https://itunes.apple.com/us/app/daisy-the-dinosaur/id490514278) - basics of programming
-* [Hello Ruby: Adventures in Coding](https://www.helloruby.com) - book
 * [Primo Toys](https://www.primotoys.com)
 * [CoderDojo](http://coderdojo.com) - global volunteer-led community of free programming clubs for young people between 7 and 17
 * [LEGO Coding Express](https://education.lego.com/en-us/products/coding-express/45025) - Inspire early learners to explore early coding concepts
@@ -84,7 +85,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Code Kids](https://www.youtube.com/watch?v=6JGy8zmskbM)
 * [Finnish education](https://www.youtube.com/watch?v=XQ_agxK6fLs) - Why Finland has the Best Education
 * [Bill Gates early days](https://www.youtube.com/watch?v=vYXQTrYPenQ) - Bill Gates remembers his early programming career
-* [The Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo) - Achieving Your Childhood Dreams
+
 
 ## Computer Kits
 * [Raspberry Pi](https://www.raspberrypi.org/) - series of small single-board computers 
@@ -173,8 +174,11 @@ with studio quality sound.
 * [Topic : Children](https://www.ted.com/topics/children) - A collection of TED Talks (and more) on the topic of children.
 * [Search results for _kids_ (> 2000)](https://www.ted.com/search?q=kids)
 ##### Selection:
-* [Easy DIY projects for kid engineers](http://www.ted.com/talks/fawn_qiu_easy_diy_projects_for_kid_engineers)
-* [The linguistic genius of babies](http://www.ted.com/talks/patricia_kuhl_the_linguistic_genius_of_babies.html)
+* [Really achieving your childhood dreams](https://www.ted.com/talks/randy_pausch_really_achieving_your_childhood_dreams) - Randy Pausch (aka The last lecture) 
+* [A delightful way to teach kids about computers](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers?language=en) - Linda Liukas ([+books](http://www.helloruby.com/books))
+* [Crawling into a computer](https://www.ted.com/talks/linda_liukas_crawling_into_a_computer) - Linda Liukas ([+books](http://www.helloruby.com/books))
+* [Easy DIY projects for kid engineers](http://www.ted.com/talks/fawn_qiu_easy_diy_projects_for_kid_engineers) - Fawn Qiw
+* [The linguistic genius of babies](http://www.ted.com/talks/patricia_kuhl_the_linguistic_genius_of_babies.html) - Patricia Kuhl
 
 
 ## YouTube Channels
