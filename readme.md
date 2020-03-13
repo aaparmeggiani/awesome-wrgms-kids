@@ -17,6 +17,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Games](#games)
 * [Hacking Projects](#hacking-projects)
 * [IoT](#iot)
+* [Marbles](#marbles)
 * [Movies](#movies)
 * [Music](#music)
 * [Robotics](#robotics)
@@ -35,7 +36,6 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [IdeaPaint](http://www.ideapaint.com) - Write on your walls!
 * [LEGO Simple Machines](https://education.lego.com/en-gb/product/machines-and-mechanisms-elementary) - Discover how the world works
 * [Makedo](https://int.make.do/) - Cardboard construction toolkit
-* [Marbleocity Coasters](https://tinkineer.com) - “marble machine” kits which introduce physics concepts / engineering mechanisms
 * [Montessori Toys](https://www.thebump.com/a/montessori-toys) - Toys with a purpose
 * [Pixlplay](http://pixltoys.com) - my first camera (?)
 * [TootScoot](http://tootscoot.com) - my first bike (?)
@@ -124,13 +124,18 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Spaceship Panel](https://imgur.com/gallery/dqK7A)
 * [Live Train Station Sign](https://www.balena.io/blog/build-a-raspberry-pi-powered-train-station-oled-sign-for-your-desk/)
 * [Web sites and fairy lights](https://www.youtube.com/watch?v=aAYRClMSUzg)
-* [Marble Machines](https://www.exploratorium.edu/tinkering/projects/marble-machines) ([video](https://vimeo.com/29169944)) ([coursera](https://www.coursera.org/lecture/tinkering-motion-mechanisms/marble-machines-ZwaL1))
 
 
 
 ## IoT
 * [Twine](https://www.kickstarter.com/projects/supermechanical/twine-listen-to-your-world-talk-to-the-internet) - Listen to your world, talk to the Internet
 * [PaperSignals](https://papersignals.withgoogle.com) - build-it-yourself objects that you control with your voice. (Google)
+
+
+## Marbles
+* [Makeway](https://www.kickstarter.com/projects/makeway/makeway-create-intricate-courses-watch-your-marbles-soar)
+* [Marble Machines](https://www.exploratorium.edu/tinkering/projects/marble-machines) ([video](https://vimeo.com/29169944)) ([coursera](https://www.coursera.org/lecture/tinkering-motion-mechanisms/marble-machines-ZwaL1))
+* [Marbleocity Coasters](https://www.kickstarter.com/projects/2103508677/marbleocity-marble-machine-kit-a-stem-maker-experi) - “marble machine” kits which introduce physics concepts / engineering mechanisms
 
 
 ## Movies
