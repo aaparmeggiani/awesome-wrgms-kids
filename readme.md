@@ -7,9 +7,9 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 
 ## Contents
-* [Analog World](#analog-world)
 * [Animation](#animation)
 * [Books](#books)
+* [Cycling](#cycling)
 * [Coding](#coding)
 * [Computer Kits](#computer-kits)
 * [Education](#education)
@@ -17,7 +17,8 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Games](#games)
 * [Hacking Projects](#hacking-projects)
 * [IoT](#iot)
-* [Marbles](#marbles)
+* [Marble runs](#marble-runs)
+* [Misc](#misc)
 * [Movies](#movies)
 * [Music](#music)
 * [Robotics](#robotics)
@@ -30,23 +31,13 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [More Awesome Kids](#more-awesome-kids)
 
 
-## Analog World
-* [Microbrite](https://carson.com/products/microbrite-plus-mm-300/) - Mi first microscope (?)
-* [Goldieblox](https://www.goldieblox.com) - Award-winning construction toys for girls! #morethanjustaprincess  #giveagirlatoolbox
-* [IdeaPaint](http://www.ideapaint.com) - Write on your walls!
-* [LEGO Simple Machines](https://education.lego.com/en-gb/product/machines-and-mechanisms-elementary) - Discover how the world works
-* [Makedo](https://int.make.do/) - Cardboard construction toolkit
-* [Montessori Toys](https://www.thebump.com/a/montessori-toys) - Toys with a purpose
-* [Pixlplay](http://pixltoys.com) - my first camera (?)
-* [TootScoot](http://tootscoot.com) - my first bike (?)
-* [Two Wheeling Tots](https://www.twowheelingtots.com/) - Helping you find the best bikes to your little ones
-
 
 ## Animation
 * [Brickfilms](https://www.youtube.com/watch?v=byhude3fzAQ) - Lego stop-motion tutorial
 * [Flipbooks](https://www.youtube.com/watch?v=Un-BdBSOGKY) - Flipbook tutorial ([kit](https://flipbook.andymation.shop/shop))
 * [Disney Animation: The Illusion of Life](https://en.wikipedia.org/wiki/Disney_Animation:_The_Illusion_of_Life) - Disney's animation bible.
 * [The Magic of Animation](https://www.youtube.com/watch?v=EVQflnGcx4k) - A look at the 12 principles of animation developed by Disney
+
 
 ## Books
 * [Ada Twist, Scientist](https://www.amazon.co.uk/Ada-Twist-Scientist-Andrea-Beaty/dp/1419721372/)
@@ -59,6 +50,11 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Wonderbly](http://wonderbly.com) - Personalised books (former LostMyName)
 ##### for parents
 * [Glow Kids: How Screen Addiction Is Hijacking Our Kids - and How to Break the Trance](https://www.amazon.com/dp/B01ARS7H5A/)
+
+
+## Cycling
+* [TootScoot](http://tootscoot.com) - my first bike (?)
+* [Two Wheeling Tots](https://www.twowheelingtots.com/) - Helping you find the best bikes to your little ones
 
 
 ## Coding
@@ -126,16 +122,25 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Web sites and fairy lights](https://www.youtube.com/watch?v=aAYRClMSUzg)
 
 
-
 ## IoT
 * [Twine](https://www.kickstarter.com/projects/supermechanical/twine-listen-to-your-world-talk-to-the-internet) - Listen to your world, talk to the Internet
 * [PaperSignals](https://papersignals.withgoogle.com) - build-it-yourself objects that you control with your voice. (Google)
 
 
-## Marbles
+## Marble Runs
 * [Makeway](https://www.kickstarter.com/projects/makeway/makeway-create-intricate-courses-watch-your-marbles-soar)
 * [Marble Machines](https://www.exploratorium.edu/tinkering/projects/marble-machines) ([video](https://vimeo.com/29169944)) ([coursera](https://www.coursera.org/lecture/tinkering-motion-mechanisms/marble-machines-ZwaL1))
 * [Marbleocity Coasters](https://www.kickstarter.com/projects/2103508677/marbleocity-marble-machine-kit-a-stem-maker-experi) - “marble machine” kits which introduce physics concepts / engineering mechanisms
+
+
+## Misc
+* [Microbrite](https://carson.com/products/microbrite-plus-mm-300/) - Mi first microscope (?)
+* [Goldieblox](https://www.goldieblox.com) - Award-winning construction toys for girls! #morethanjustaprincess  #giveagirlatoolbox
+* [IdeaPaint](http://www.ideapaint.com) - Write on your walls!
+* [LEGO Simple Machines](https://education.lego.com/en-gb/product/machines-and-mechanisms-elementary) - Discover how the world works
+* [Makedo](https://int.make.do/) - Cardboard construction toolkit
+* [Montessori Toys](https://www.thebump.com/a/montessori-toys) - Toys with a purpose
+* [Pixlplay](http://pixltoys.com) - my first camera (?)
 
 
 ## Movies
