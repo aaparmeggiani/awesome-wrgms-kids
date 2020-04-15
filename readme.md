@@ -195,7 +195,7 @@ with studio quality sound.
 ## YouTube Channels
 * [Crash Couse Kids](https://www.youtube.com/user/crashcoursekids) - From the creators of [Crash Course](https://www.youtube.com/user/crashcourse)
 * [Elmo Celebritie's songs](https://www.youtube.com/watch?v=pWp6kkz-pnQ&list=PL6IS1VIT4jRAnyBJ7UMx-QGrgtf60zNLj) - by [Sesame Street](https://www.sesamestreet.org)
-[R3 Music Box](https://www.youtube.com/channel/UCrnX-RrSu3jK-auhcDGpvAw) - great collection if you need lullabiezz.
+* [R3 Music Box](https://www.youtube.com/channel/UCrnX-RrSu3jK-auhcDGpvAw) - great collection if you need lullabiezz.
 
 --
 
