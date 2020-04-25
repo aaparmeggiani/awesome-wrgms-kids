@@ -61,6 +61,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Beanz Magazine](https://www.kidscodecs.com) - Kids, code and computer science magazine
 * [BitsBox](https://bitsbox.com) - Monthly coding projects
 * [Computer Coding](https://www.amazon.com/DK-Workbooks-Computer-Coding/dp/146542685X) - book
+* [Functions for kids](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/) - blog post
 * [Daisy the Dinossaur](https://itunes.apple.com/us/app/daisy-the-dinosaur/id490514278) - basics of programming
 * [Primo Toys](https://www.primotoys.com)
 * [CoderDojo](http://coderdojo.com) - global volunteer-led community of free programming clubs for young people between 7 and 17
