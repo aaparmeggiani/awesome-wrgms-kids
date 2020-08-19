@@ -56,7 +56,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 ## Cycling
 * [TootScoot](http://tootscoot.com) - my first bike (?)
 * [Two Wheeling Tots](https://www.twowheelingtots.com/) - Helping you find the best bikes to your little ones
-* [Woom Bikes](https://whoombikes.com) - The Apple of kid's bikes (and accessories ;).
+* [Woom Bikes](https://woombikes.com) - The Apple of kid's bikes (and accessories ;).
 
 
 ## Coding
