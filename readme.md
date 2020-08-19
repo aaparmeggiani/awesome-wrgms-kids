@@ -17,6 +17,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Games](#games)
 * [Hacking Projects](#hacking-projects)
 * [IoT](#iot)
+* [Learning Platforms](#learning-platforms)
 * [Marble runs](#marble-runs)
 * [Misc](#misc)
 * [Movies](#movies)
@@ -55,7 +56,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 ## Cycling
 * [TootScoot](http://tootscoot.com) - my first bike (?)
 * [Two Wheeling Tots](https://www.twowheelingtots.com/) - Helping you find the best bikes to your little ones
-* [Woom Bikes](https://whoombikes.com) - The Apple of kid's bikes.
+* [Woom Bikes](https://whoombikes.com) - The Apple of kid's bikes (and accessories ;).
 
 
 ## Coding
@@ -128,6 +129,8 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Twine](https://www.kickstarter.com/projects/supermechanical/twine-listen-to-your-world-talk-to-the-internet) - Listen to your world, talk to the Internet
 * [PaperSignals](https://papersignals.withgoogle.com) - build-it-yourself objects that you control with your voice. (Google)
 
+## Learning Platforms
+* [hiperlink.academy](https://hyperlink.academy) - community platform for seriously effective learning.
 
 ## Marble Runs
 * [Joseph's Machines](https://www.youtube.com/user/allonewordplease) - youtube channel
