@@ -130,7 +130,8 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [PaperSignals](https://papersignals.withgoogle.com) - build-it-yourself objects that you control with your voice. (Google)
 
 ## Learning Platforms
-* [hiperlink.academy](https://hyperlink.academy) - community platform for seriously effective learning.
+* [hiperlink.academy](https://hyperlink.academy) - an experimental internet native school.
+
 
 ## Marble Runs
 * [Joseph's Machines](https://www.youtube.com/user/allonewordplease) - youtube channel
