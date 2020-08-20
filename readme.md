@@ -131,7 +131,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 ## Learning Platforms
 * [hiperlink.academy](https://hyperlink.academy) - an experimental internet native school.
-
+* [Skillshare](https://skillshare.com) - find what fascinates you
 
 ## Marble Runs
 * [Joseph's Machines](https://www.youtube.com/user/allonewordplease) - youtube channel
