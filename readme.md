@@ -158,11 +158,12 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 ## Music
 * [Bandimal](http://www.yatatoy.com/bandimal) - Your kid's first music composer.
-* [Sonic Pi](https://sonic-pi.net) - Learn to code your Music!
 * [BlipBlox](http://blipblox.com) - A synthesizer and beatbox designed to promote creativity and audio exploration.
+* [Everyday Looper](https://www.youtube.com/watch?v=nh2FHIZWfJE) - Looper app (great demo by Edouard Joguet)
 * [Circuit Bending](https://www.youtube.com/watch?v=kJfTdD_5XyE) - DIY/maker version of BlipBlox ;-)
 * [Pocket Operators](https://teenageengineering.com/now/youtube) - Small, ultra portable music devices,
 with studio quality sound.
+* [Sonic Pi](https://sonic-pi.net) - Learn to code your Music!
 
 
 ## Robotics
