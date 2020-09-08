@@ -86,7 +86,8 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Bill Gates early days](https://www.youtube.com/watch?v=vYXQTrYPenQ) - Bill Gates remembers his early programming career
 
 
-## Computer Kits
+## Computer Kits / Boards
+* [Adafruit](https://adafruit.com) - open-source hardware company doing boards for educational/hobbyist purposes.
 * [Raspberry Pi](https://www.raspberrypi.org/) - series of small single-board computers 
 * [Boolean Box](https://booleangirltech.com) - Computer & coding kit for girls
 * [Kano](https://kano.me) - Make your own computer
@@ -126,6 +127,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 
 ## IoT
+* [Adafruit.io](https://adafruit.io) - the easiest way to interact with your IoT data
 * [Twine](https://www.kickstarter.com/projects/supermechanical/twine-listen-to-your-world-talk-to-the-internet) - Listen to your world, talk to the Internet
 * [PaperSignals](https://papersignals.withgoogle.com) - build-it-yourself objects that you control with your voice. (Google)
 
@@ -170,6 +172,7 @@ with studio quality sound.
 * [LEGO Mindstorms](https://www.lego.com/mindstorms/)
 * [BrickPi](https://www.dexterindustries.com/brickpi/) -  connects LEGO Mindstorms with the Raspberry Pi
 * [Pi Wars](https://piwars.org) -  International, challenge-based robotics competition
+* [RedRobotics](https://redrobotics.co.uk) -  advanced robotics controller for your Raspberry Pi
 * [Root](https://root.irobot.com/) - Coding robot by iRobot
 * [VexRobotics](https://www.vexrobotics.com)
 * [Vincross](https://www.vincross.com) - Can you robot?
@@ -219,3 +222,7 @@ with studio quality sound.
 * [Awesome Kids](https://github.com/moacirosa/awesome-kids)
 * [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
 
+
+https://learn.adafruit.com
+
+https://learn.adafruit.com/welcome-to-adafruit-io
