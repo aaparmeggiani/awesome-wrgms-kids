@@ -60,18 +60,10 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 
 ## Coding
-* [Beanz Magazine](https://www.kidscodecs.com) - Kids, code and computer science magazine
-* [BitsBox](https://bitsbox.com) - Monthly coding projects
-* [Computer Coding](https://www.amazon.com/DK-Workbooks-Computer-Coding/dp/146542685X) - book
-* [Functions for kids](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/) - blog post
-* [Daisy the Dinossaur](https://itunes.apple.com/us/app/daisy-the-dinosaur/id490514278) - basics of programming
-* [Primo Toys](https://www.primotoys.com)
+#### Club/Classes
+* [Code Club](https://projects.raspberrypi.org/en/codeclub) - global network of free coding clubs for 9-13yr olds. ([video](https://www.youtube.com/watch?v=gE_BoiR1ff0))
 * [CoderDojo](http://coderdojo.com) - global volunteer-led community of free programming clubs for young people between 7 and 17
-* [LEGO Coding Express](https://education.lego.com/en-us/products/coding-express/45025) - Inspire early learners to explore early coding concepts
-* [PICO-8](https://www.lexaloffle.com/pico-8.php) - Fantasy console for making, sharing and playing tiny games. Also [Awesome-PICO-8](https://github.com/felipebueno/awesome-PICO-8)
-* [Code Club](https://projects.raspberrypi.org/en/codeclub) - global network of free coding clubs for 9-13yr olds.
-
-
+* [WhiteHatJr](https://whitehatjr.com/) - Online coding classes for kids between 6 and 17
 #### Languages
 * [Coding Projects in Python](https://www.amazon.com/Coding-Projects-Python-DK/dp/1465461884/) - book
 * [KidsRuby](http://kidsruby.com) - 
@@ -79,11 +71,19 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Scratch](https://scratch.mit.edu/) ([wiki](https://wiki.scratch.mit.edu/wiki/Scratch_Wiki_Home)) - visual programming language developed by the MIT Media Lab.
 * [ScratchJr](https://www.scratchjr.org/) - Scratch for 5-7 year olds.
 * [HacketyHack](https://en.wikipedia.org/wiki/Hackety_Hack) - Gone?
-
-#### Documentaries
+#### Other
+* [Beanz Magazine](https://www.kidscodecs.com) - Kids, code and computer science magazine
+* [BitsBox](https://bitsbox.com) - Monthly coding projects
+* [Computer Coding](https://www.amazon.com/DK-Workbooks-Computer-Coding/dp/146542685X) - book
+* [Functions for kids](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/) - blog post
+* [Daisy the Dinossaur](https://itunes.apple.com/us/app/daisy-the-dinosaur/id490514278) - game
+* [Primo Toys](https://www.primotoys.com)
+* [LEGO Coding Express](https://education.lego.com/en-us/products/coding-express/45025) - Inspire early learners to explore early coding concepts
+* [PICO-8](https://www.lexaloffle.com/pico-8.php) - Fantasy console for making, sharing and playing tiny games. Also [Awesome-PICO-8](https://github.com/felipebueno/awesome-PICO-8)
 * [Code Kids](https://www.youtube.com/watch?v=6JGy8zmskbM)
-* [Finnish education](https://www.youtube.com/watch?v=XQ_agxK6fLs) - Why Finland has the Best Education
 * [Bill Gates early days](https://www.youtube.com/watch?v=vYXQTrYPenQ) - Bill Gates remembers his early programming career
+
+
 
 
 ## Computer Kits / Boards
@@ -132,6 +132,8 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [PaperSignals](https://papersignals.withgoogle.com) - build-it-yourself objects that you control with your voice. (Google)
 
 ## Learning Platforms
+* [Duolingo ABC](https://apps.apple.com/gb/app/duolingo-abc-learn-to-read/id1440502568) - Fun reading lessons for kids
+* [Duolingo](https://duolingo.com) - Learn a language for free.
 * [hiperlink.academy](https://hyperlink.academy) - an experimental internet native school.
 * [Skillshare](https://skillshare.com) - find what fascinates you
 
@@ -223,6 +225,3 @@ with studio quality sound.
 * [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
 
 
-https://learn.adafruit.com
-
-https://learn.adafruit.com/welcome-to-adafruit-io
