@@ -149,7 +149,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Microbrite](https://carson.com/products/microbrite-plus-mm-300/) - Mi first microscope (?)
 * [Goldieblox](https://www.goldieblox.com) - Award-winning construction toys for girls! #morethanjustaprincess  #giveagirlatoolbox
 * [IdeaPaint](http://www.ideapaint.com) - Write on your walls!
-* [LEGO Simple Machines](https://education.lego.com/en-gb/product/machines-and-mechanisms-elementary) - Discover how the world works
+* [Lightboard](https://lightboard.info) - Write on your videos! ([video](https://www.youtube.com/watch?v=wCOuu0-o5YI))
 * [Makedo](https://int.make.do/) - Cardboard construction toolkit
 * [Montessori Toys](https://www.thebump.com/a/montessori-toys) - Toys with a purpose
 * [Pixlplay](http://pixltoys.com) - my first camera (?)
@@ -192,7 +192,7 @@ with studio quality sound.
 * [LEGO Education](https://education.lego.com) : [pre](https://education.lego.com/preschool/intro)
 | [primary](https://education.lego.com/primary/intro)
 | [secondary](https://education.lego.com/secondary/intro)
-
+* [LEGO Simple Machines](https://education.lego.com/en-gb/product/machines-and-mechanisms-elementary) - Discover how the world works
 
 ## TED Talks
 * [Topic : Children](https://www.ted.com/topics/children) - A collection of TED Talks (and more) on the topic of children.
