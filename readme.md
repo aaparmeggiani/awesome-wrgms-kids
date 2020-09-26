@@ -71,7 +71,14 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Scratch](https://scratch.mit.edu/) ([wiki](https://wiki.scratch.mit.edu/wiki/Scratch_Wiki_Home)) - visual programming language developed by the MIT Media Lab.
 * [ScratchJr](https://www.scratchjr.org/) - Scratch for 5-7 year olds.
 * [HacketyHack](https://en.wikipedia.org/wiki/Hackety_Hack) - Gone?
+#### Other Lists
+* [Coding Resources for Kids](https://gist.github.com/craigsssmith/9c6528ae485aec09f292)
+* [Teach Kids Programming](https://gist.github.com/roachhd/895c5c801d543d852ad4)
+* [grudelsud/coding4kids](https://github.com/grudelsud/coding4kids)
+* [ilyaresh/coding-for-kids](https://github.com/ilyaresh/coding-for-kids)
+* [jashmenn/teaching-kids-programming](https://github.com/jashmenn/teaching-kids-programming)
 #### Other
+* [A Programming flow chart for kids](https://medium.com/young-coder/a-programming-flow-chart-for-kids-983cbaff8038) - some ideas about what to learn first
 * [Beanz Magazine](https://www.kidscodecs.com) - Kids, code and computer science magazine
 * [BitsBox](https://bitsbox.com) - Monthly coding projects
 * [Computer Coding](https://www.amazon.com/DK-Workbooks-Computer-Coding/dp/146542685X) - book
@@ -136,6 +143,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Duolingo](https://duolingo.com) - Learn a language for free.
 * [hiperlink.academy](https://hyperlink.academy) - an experimental internet native school.
 * [Skillshare](https://skillshare.com) - find what fascinates you
+*[TypingClub](https://www.typingclub.com) - Learn touch typing for free!
 
 ## Marble Runs
 * [Joseph's Machines](https://www.youtube.com/user/allonewordplease) - youtube channel
@@ -193,6 +201,8 @@ with studio quality sound.
 | [primary](https://education.lego.com/primary/intro)
 | [secondary](https://education.lego.com/secondary/intro)
 * [LEGO Simple Machines](https://education.lego.com/en-gb/product/machines-and-mechanisms-elementary) - Discover how the world works
+* [STEM Resources for Kids](https://github.com/ashleymcnamara/STEM_Resources_For_Kids) - list
+* [The London School of Mathematics & Programming](https://www.londonsmp.co.uk)
 
 ## TED Talks
 * [Topic : Children](https://www.ted.com/topics/children) - A collection of TED Talks (and more) on the topic of children.
