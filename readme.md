@@ -224,4 +224,4 @@ with studio quality sound.
 * [Awesome Kids](https://github.com/moacirosa/awesome-kids)
 * [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
 
-
+* [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)
