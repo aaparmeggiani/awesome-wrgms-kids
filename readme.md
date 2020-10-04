@@ -57,6 +57,8 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [TootScoot](http://tootscoot.com) - my first bike (?)
 * [Two Wheeling Tots](https://www.twowheelingtots.com/) - Helping you find the best bikes to your little ones
 * [Woom Bikes](https://woombikes.com) - The Apple of kid's bikes (and accessories ;).
+* [The Backwards Brain Bicycle](https://www.youtube.com/watch?v=MFzDaBzBlL0) - can you ride this *special* bike? (also [here](https://www.youtube.com/watch?v=oI2aMKwXXnE))
+* [Magnic Mcrolights](https://www.magniclight.com/) - contactless bike dynamo/lights ([video](https://www.youtube.com/watch?v=Zi7rsuBdm5s))
 
 
 ## Coding
@@ -143,7 +145,8 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Duolingo](https://duolingo.com) - Learn a language for free.
 * [hiperlink.academy](https://hyperlink.academy) - an experimental internet native school.
 * [Skillshare](https://skillshare.com) - find what fascinates you
-*[TypingClub](https://www.typingclub.com) - Learn touch typing for free!
+* [TypingClub](https://www.typingclub.com) - Learn touch typing for free!
+* [Learn Quick](https://www.youtube.com/channel/UCIRiWCPZoUyZDbydIqitHtQ) - Learn new things every week
 
 ## Marble Runs
 * [Joseph's Machines](https://www.youtube.com/user/allonewordplease) - youtube channel
@@ -233,5 +236,4 @@ with studio quality sound.
 ## More Awesome Kids
 * [Awesome Kids](https://github.com/moacirosa/awesome-kids)
 * [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
-
 * [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)
