@@ -11,7 +11,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Books](#books)
 * [Cycling](#cycling)
 * [Coding](#coding)
-* [Computer Kits](#computer-kits)
+* [Computer Kits / Boards](#computer-kits-/-boards)
 * [Education](#education)
 * [Electronics](#electronics)
 * [Games](#games)
@@ -100,6 +100,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Raspberry Pi](https://www.raspberrypi.org/) - series of small single-board computers 
 * [Boolean Box](https://booleangirltech.com) - Computer & coding kit for girls
 * [Kano](https://kano.me) - Make your own computer
+* [BBC micro:bit](https://microbit.org) -  legacy for the original BBC Make It Digital project in which a million micro:bits were given to UK school children
 
 
 ## Education
