@@ -11,7 +11,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Books](#books)
 * [Cycling](#cycling)
 * [Coding](#coding)
-* [Computer Kits / Boards](#computer-kits-/-boards)
+* [Computer Kits / Boards](#computer-kits--boards)
 * [Education](#education)
 * [Electronics](#electronics)
 * [Games](#games)
