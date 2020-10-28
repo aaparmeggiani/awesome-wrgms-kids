@@ -88,6 +88,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Daisy the Dinossaur](https://itunes.apple.com/us/app/daisy-the-dinosaur/id490514278) - game
 * [Primo Toys](https://www.primotoys.com)
 * [LEGO Coding Express](https://education.lego.com/en-us/products/coding-express/45025) - Inspire early learners to explore early coding concepts
+* [LEGO Microgames](https://unity.com/lego) - make and share microgames using Unity/Lego.
 * [PICO-8](https://www.lexaloffle.com/pico-8.php) - Fantasy console for making, sharing and playing tiny games. Also [Awesome-PICO-8](https://github.com/felipebueno/awesome-PICO-8)
 * [Code Kids](https://www.youtube.com/watch?v=6JGy8zmskbM)
 * [Bill Gates early days](https://www.youtube.com/watch?v=vYXQTrYPenQ) - Bill Gates remembers his early programming career
@@ -151,6 +152,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 ## Marble Runs
 * [Joseph's Machines](https://www.youtube.com/user/allonewordplease) - youtube channel
+* [LEGO marble run challenge](https://www.youtube.com/watch?v=9f7mljBREHE) 
 * [Makeway](https://www.kickstarter.com/projects/makeway/makeway-create-intricate-courses-watch-your-marbles-soar)
 * [Marble Machines](https://www.exploratorium.edu/tinkering/projects/marble-machines) ([video](https://vimeo.com/29169944)) ([coursera](https://www.coursera.org/lecture/tinkering-motion-mechanisms/marble-machines-ZwaL1))
 * [Marbleocity Coasters](https://www.kickstarter.com/projects/2103508677/marbleocity-marble-machine-kit-a-stem-maker-experi) - “marble machine” kits which introduce physics concepts / engineering mechanisms
@@ -222,6 +224,7 @@ with studio quality sound.
 ## YouTube Channels
 * [Crash Couse Kids](https://www.youtube.com/user/crashcoursekids) - From the creators of [Crash Course](https://www.youtube.com/user/crashcourse)
 * [Elmo Celebritie's songs](https://www.youtube.com/watch?v=pWp6kkz-pnQ&list=PL6IS1VIT4jRAnyBJ7UMx-QGrgtf60zNLj) - by [Sesame Street](https://www.sesamestreet.org)
+* [LEGO channel](https://www.youtube.com/channel/UCP-Ng5SXUEt0VE-TXqRdL6g) - of course, they're on youtube too =)
 * [R3 Music Box](https://www.youtube.com/channel/UCrnX-RrSu3jK-auhcDGpvAw) - great collection if you need lullabiezz.
 
 --
