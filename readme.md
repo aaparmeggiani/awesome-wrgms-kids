@@ -18,7 +18,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Hacking Projects](#hacking-projects)
 * [IoT](#iot)
 * [Learning Platforms](#learning-platforms)
-* [Marble runs](#marble-runs)
+* [Marble runs & Dominoes](#marble-runs--dominoes)
 * [Misc](#misc)
 * [Movies](#movies)
 * [Music](#music)
@@ -59,6 +59,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Woom Bikes](https://woombikes.com) - The Apple of kid's bikes (and accessories ;).
 * [The Backwards Brain Bicycle](https://www.youtube.com/watch?v=MFzDaBzBlL0) - can you ride this *special* bike? (also [here](https://www.youtube.com/watch?v=oI2aMKwXXnE))
 * [Magnic Mcrolights](https://www.magniclight.com/) - contactless bike dynamo/lights ([video](https://www.youtube.com/watch?v=Zi7rsuBdm5s))
+* [Danny MacAskill](https://www.youtube.com/channel/UC9kOkY1nYc0uADWRiRH64Rw) - don't try any of this at home!
 
 
 ## Coding
@@ -150,7 +151,8 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [TypingClub](https://www.typingclub.com) - Learn touch typing for free!
 * [Learn Quick](https://www.youtube.com/channel/UCIRiWCPZoUyZDbydIqitHtQ) - Learn new things every week
 
-## Marble Runs
+## Marble Runs & Dominoes
+* [Hevesh5](https://www.youtube.com/user/Hevesh5) - domino creations
 * [Joseph's Machines](https://www.youtube.com/user/allonewordplease) - youtube channel
 * [LEGO marble run challenge](https://www.youtube.com/watch?v=9f7mljBREHE) 
 * [Makeway](https://www.kickstarter.com/projects/makeway/makeway-create-intricate-courses-watch-your-marbles-soar)
@@ -164,6 +166,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Goldieblox](https://www.goldieblox.com) - Award-winning construction toys for girls! #morethanjustaprincess  #giveagirlatoolbox
 * [IdeaPaint](http://www.ideapaint.com) - Write on your walls!
 * [Lightboard](https://lightboard.info) - Write on your videos! ([video](https://www.youtube.com/watch?v=wCOuu0-o5YI))
+* [Light Painting](https://www.youtube.com/watch?v=CFlgMdiZHhc) - Write on your photos! 
 * [Makedo](https://int.make.do/) - Cardboard construction toolkit
 * [Montessori Toys](https://www.thebump.com/a/montessori-toys) - Toys with a purpose
 * [Pixlplay](http://pixltoys.com) - my first camera (?)
@@ -225,6 +228,7 @@ with studio quality sound.
 * [Crash Couse Kids](https://www.youtube.com/user/crashcoursekids) - From the creators of [Crash Course](https://www.youtube.com/user/crashcourse)
 * [Elmo Celebritie's songs](https://www.youtube.com/watch?v=pWp6kkz-pnQ&list=PL6IS1VIT4jRAnyBJ7UMx-QGrgtf60zNLj) - by [Sesame Street](https://www.sesamestreet.org)
 * [LEGO channel](https://www.youtube.com/channel/UCP-Ng5SXUEt0VE-TXqRdL6g) - of course, they're on youtube too =)
+* [Physics Girl](https://www.youtube.com/c/physicsgirl) -  adventures into the physical sciences.
 * [R3 Music Box](https://www.youtube.com/channel/UCrnX-RrSu3jK-auhcDGpvAw) - great collection if you need lullabiezz.
 
 --
