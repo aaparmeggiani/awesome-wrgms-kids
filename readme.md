@@ -99,7 +99,8 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 ## Computer Kits / Boards
 * [Adafruit](https://adafruit.com) - open-source hardware company doing boards for educational/hobbyist purposes.
-* [Raspberry Pi](https://www.raspberrypi.org/) - series of small single-board computers 
+* [Raspberry Pi](https://www.raspberrypi.org/) - series of small single-board computers
+* [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/) - complete computer built into a compact keyboard
 * [Boolean Box](https://booleangirltech.com) - Computer & coding kit for girls
 * [Kano](https://kano.me) - Make your own computer
 * [BBC micro:bit](https://microbit.org) -  legacy for the original BBC Make It Digital project in which a million micro:bits were given to UK school children
