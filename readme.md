@@ -50,6 +50,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [What Do You Do with an Idea?](https://www.amazon.co.uk/What-Do-You-Idea/dp/1938298071/)
 * [Wonderbly](http://wonderbly.com) - Personalised books (former LostMyName)
 ##### for parents
+* [One Third Stories](https://onethirdstories.com) - stories the start in english and finish in another language
 * [Glow Kids: How Screen Addiction Is Hijacking Our Kids - and How to Break the Trance](https://www.amazon.com/dp/B01ARS7H5A/)
 
 
@@ -179,10 +180,25 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 
 ## Music
-* [Bandimal](http://www.yatatoy.com/bandimal) - Your kid's first music composer.
+#### Beatboxing
+* [13 Levels of Beatboxing](https://www.youtube.com/watch?v=Efk_z9kg2MU) - WIRED/Butterscotch
+#### Circuit Bending
 * [BlipBlox](http://blipblox.com) - A synthesizer and beatbox designed to promote creativity and audio exploration.
-* [Everyday Looper](https://www.youtube.com/watch?v=nh2FHIZWfJE) - Looper app (great demo by Edouard Joguet)
 * [Circuit Bending](https://www.youtube.com/watch?v=kJfTdD_5XyE) - DIY/maker version of BlipBlox ;-)
+#### Looping
+* [Bandimal](http://www.yatatoy.com/bandimal) - Your kid's first music composer.
+* [Loopimal](https://www.yatatoy.com/loopimal) - Build loops. Build sequences. Make music.
+* [Everyday Looper](https://www.youtube.com/watch?v=nh2FHIZWfJE) - Looper app (great demo by Edouard Joguet)
+* [Foot Loose](https://www.youtube.com/watch?v=FWmhk8sxMy0)
+* [Super Mario](https://www.youtube.com/watch?v=FWmhk8sxMy0)
+#### Multi-track video-music a capella
+* [Acapella App](https://apps.apple.com/gb/app/acapella-from-picplaypost/id924635678) - Multi-track video-music maker
+* [Canon in D](https://www.youtube.com/watch?v=bViB_P7RTDU) - beatbox multitrack
+* [Don't You Worry 'Bout A Thing](https://www.youtube.com/watch?v=pvKUttYs5ow) - by Jacob Collier
+* [Super Mario A Capella](https://www.youtube.com/watch?v=AVbPnDf3TIw)
+* [Stay with Me](https://www.youtube.com/watch?v=Ti8ZyNucq10) - How to build a vocal arrangement
+* [The Lion Sleeps Tonight](https://www.youtube.com/watch?v=9RnhVDTks3g)
+#### Other
 * [Pocket Operators](https://teenageengineering.com/now/youtube) - Small, ultra portable music devices,
 with studio quality sound.
 * [Sonic Pi](https://sonic-pi.net) - Learn to code your Music!
