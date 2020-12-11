@@ -180,6 +180,9 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 
 ## Music
+
+#### Music as Code
+* [Sonic Pi](https://sonic-pi.net) - Learn to code your Music! ([video](https://www.youtube.com/watch?v=gETE5Pe_Fdk))
 #### Beatboxing
 * [13 Levels of Beatboxing](https://www.youtube.com/watch?v=Efk_z9kg2MU) - WIRED/Butterscotch
 #### Circuit Bending
@@ -201,7 +204,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 #### Other
 * [Pocket Operators](https://teenageengineering.com/now/youtube) - Small, ultra portable music devices,
 with studio quality sound.
-* [Sonic Pi](https://sonic-pi.net) - Learn to code your Music!
+
 
 
 ## Robotics
