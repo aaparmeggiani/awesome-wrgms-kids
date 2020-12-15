@@ -238,6 +238,7 @@ with studio quality sound.
 * [Search results for _kids_ (> 2000)](https://www.ted.com/search?q=kids)
 ##### Selection:
 * [Really achieving your childhood dreams](https://www.ted.com/talks/randy_pausch_really_achieving_your_childhood_dreams) - Randy Pausch (aka The last lecture) 
+* [Programming as Performance](https://www.youtube.com/watch?v=0lTZ8Tuyu5I) - Sam Aaron - Sonic Pi
 * [A delightful way to teach kids about computers](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers?language=en) - Linda Liukas ([+books](http://www.helloruby.com/books))
 * [Crawling into a computer](https://www.ted.com/talks/linda_liukas_crawling_into_a_computer) - Linda Liukas ([+books](http://www.helloruby.com/books))
 * [Easy DIY projects for kid engineers](http://www.ted.com/talks/fawn_qiu_easy_diy_projects_for_kid_engineers) - Fawn Qiw
