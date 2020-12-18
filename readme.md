@@ -246,7 +246,9 @@ with studio quality sound.
 
 
 ## YouTube Channels
+* [Blippi](https://www.youtube.com/user/BlippiVideos) - Educational Videos for Kids
 * [Crash Couse Kids](https://www.youtube.com/user/crashcoursekids) - From the creators of [Crash Course](https://www.youtube.com/user/crashcourse)
+* [Cosmic Kids Yoga](https://www.youtube.com/user/CosmicKidsYoga) - Yoga, mindfulness and relaxation for kids. 
 * [Elmo Celebritie's songs](https://www.youtube.com/watch?v=pWp6kkz-pnQ&list=PL6IS1VIT4jRAnyBJ7UMx-QGrgtf60zNLj) - by [Sesame Street](https://www.sesamestreet.org)
 * [LEGO channel](https://www.youtube.com/channel/UCP-Ng5SXUEt0VE-TXqRdL6g) - of course, they're on youtube too =)
 * [Physics Girl](https://www.youtube.com/c/physicsgirl) -  adventures into the physical sciences.
