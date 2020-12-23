@@ -171,6 +171,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Light Painting](https://www.youtube.com/watch?v=CFlgMdiZHhc) - Write on your photos! 
 * [Makedo](https://int.make.do/) - Cardboard construction toolkit
 * [Montessori Toys](https://www.thebump.com/a/montessori-toys) - Toys with a purpose
+* [mud+bloom](https://www.mudandbloom.com) - connecting children with nature
 * [Pixlplay](http://pixltoys.com) - my first camera (?)
 
 
