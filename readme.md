@@ -12,13 +12,13 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Cycling](#cycling)
 * [Coding](#coding)
 * [Computer Kits / Boards](#computer-kits--boards)
+* [Dominoes, Marble runs & Rubik's cube](#dominoes-marble-runs--rubik's-cube)
 * [Education](#education)
 * [Electronics](#electronics)
 * [Games](#games)
 * [Hacking Projects](#hacking-projects)
 * [IoT](#iot)
 * [Learning Platforms](#learning-platforms)
-* [Marble runs & Dominoes](#marble-runs--dominoes)
 * [Misc](#misc)
 * [Movies](#movies)
 * [Music](#music)
@@ -30,7 +30,6 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 --
 * [Merchandise](#merch)
 * [More Awesome Kids](#more-awesome-kids)
-
 
 
 ## Animation
@@ -97,7 +96,6 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 
 
-
 ## Computer Kits / Boards
 * [Adafruit](https://adafruit.com) - open-source hardware company doing boards for educational/hobbyist purposes.
 * [Raspberry Pi](https://www.raspberrypi.org/) - series of small single-board computers
@@ -106,6 +104,20 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Kano](https://kano.me) - Make your own computer
 * [BBC micro:bit](https://microbit.org) -  legacy for the original BBC Make It Digital project in which a million micro:bits were given to UK school children
 
+
+
+## Dominoes, Marble runs & Rubik's cube
+* [Hevesh5](https://www.youtube.com/user/Hevesh5) - domino creations
+* [Joseph's Machines](https://www.youtube.com/user/allonewordplease) - youtube channel
+* [LEGO marble run challenge](https://www.youtube.com/watch?v=9f7mljBREHE) 
+* [Makeway](https://www.kickstarter.com/projects/makeway/makeway-create-intricate-courses-watch-your-marbles-soar)
+* [Marble Machines](https://www.exploratorium.edu/tinkering/projects/marble-machines) ([video](https://vimeo.com/29169944)) ([coursera](https://www.coursera.org/lecture/tinkering-motion-mechanisms/marble-machines-ZwaL1))
+* [Marbleocity Coasters](https://www.kickstarter.com/projects/2103508677/marbleocity-marble-machine-kit-a-stem-maker-experi) - “marble machine” kits which introduce physics concepts / engineering mechanisms
+* [Robotime](https://www.robotimeonline.com/collections/magic-crush) - marble run building kits ([video](https://www.youtube.com/watch?v=EDaFS8gBsNM))
+* [Easy Rubik's cube for Kids](https://www.youtube.com/watch?v=OkWCvVWCN8k) - simplified Dan Brown method
+* [Rubik's cube beginner tutorial](https://www.youtube.com/watch?v=7Ron6MN45LY)
+* [Speedcubing](https://www.rubiks.com/en-us/speed-cubing) 
+* [Why We Cube](https://www.youtube.com/watch?v=1oZY2e25VUw) - a speedcubing documentary
 
 ## Education
 * [Mensa for Kids](http://www.mensaforkids.org)
@@ -152,16 +164,6 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Skillshare](https://skillshare.com) - find what fascinates you
 * [TypingClub](https://www.typingclub.com) - Learn touch typing for free!
 * [Learn Quick](https://www.youtube.com/channel/UCIRiWCPZoUyZDbydIqitHtQ) - Learn new things every week
-
-## Marble Runs & Dominoes
-* [Hevesh5](https://www.youtube.com/user/Hevesh5) - domino creations
-* [Joseph's Machines](https://www.youtube.com/user/allonewordplease) - youtube channel
-* [LEGO marble run challenge](https://www.youtube.com/watch?v=9f7mljBREHE) 
-* [Makeway](https://www.kickstarter.com/projects/makeway/makeway-create-intricate-courses-watch-your-marbles-soar)
-* [Marble Machines](https://www.exploratorium.edu/tinkering/projects/marble-machines) ([video](https://vimeo.com/29169944)) ([coursera](https://www.coursera.org/lecture/tinkering-motion-mechanisms/marble-machines-ZwaL1))
-* [Marbleocity Coasters](https://www.kickstarter.com/projects/2103508677/marbleocity-marble-machine-kit-a-stem-maker-experi) - “marble machine” kits which introduce physics concepts / engineering mechanisms
-* [Robotime](https://www.robotimeonline.com/collections/magic-crush) - marble run building kits ([video](https://www.youtube.com/watch?v=EDaFS8gBsNM))
-
 
 ## Misc
 * [Microbrite](https://carson.com/products/microbrite-plus-mm-300/) - Mi first microscope (?)
