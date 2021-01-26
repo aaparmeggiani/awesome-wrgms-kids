@@ -118,7 +118,9 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Rubik's cube beginner tutorial](https://www.youtube.com/watch?v=7Ron6MN45LY)
 * [Speedcubing](https://www.rubiks.com/en-us/speed-cubing) 
 * [Why We Cube](https://www.youtube.com/watch?v=1oZY2e25VUw) - a speedcubing documentary
-
+* [Why It's Almost Impossible to Solve a Rubik's Cube in Under 3 Seconds](https://www.youtube.com/watch?v=SUopbexPk3A) - WIRED documentary
+* [Lego Robot Rubik's Cube Solver](https://www.youtube.com/watch?v=Q8BYKwbwZSM)
+* [Fastest robot to solve a Rubik's Cube](https://www.youtube.com/watch?v=by1yz7Toick) - Guinness World Records
 ## Education
 * [Mensa for Kids](http://www.mensaforkids.org)
 * [Montessori](https://en.wikipedia.org/wiki/Montessori_education)
@@ -175,6 +177,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Montessori Toys](https://www.thebump.com/a/montessori-toys) - Toys with a purpose
 * [mud+bloom](https://www.mudandbloom.com) - connecting children with nature
 * [Pixlplay](http://pixltoys.com) - my first camera (?)
+* [Top 10 Lego Machines](https://www.youtube.com/watch?v=gHOKrHrmCbQ)
 
 
 ## Movies
