@@ -187,6 +187,9 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 ## Music
 
+* [Learning Music](https://learningmusic.ableton.com/) - Learn the fundamentals of music making right in your browser.
+* [Learning Synths](https://learningsynths.ableton.com/) - Get started with synthesis using a web-based synth and accompanying lessons.
+
 #### Music as Code
 * [Sonic Pi](https://sonic-pi.net) - Learn to code your Music! ([video](https://www.youtube.com/watch?v=gETE5Pe_Fdk))
 #### Beatboxing
