@@ -48,8 +48,8 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [The Week Junior](https://theweekjunior.co.uk) - printed magazine for children
 * [What Do You Do with an Idea?](https://www.amazon.co.uk/What-Do-You-Idea/dp/1938298071/)
 * [Wonderbly](http://wonderbly.com) - Personalised books (former LostMyName)
-##### for parents
 * [One Third Stories](https://onethirdstories.com) - stories the start in english and finish in another language
+##### for parents
 * [Glow Kids: How Screen Addiction Is Hijacking Our Kids - and How to Break the Trance](https://www.amazon.com/dp/B01ARS7H5A/)
 
 
@@ -93,7 +93,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [PICO-8](https://www.lexaloffle.com/pico-8.php) - Fantasy console for making, sharing and playing tiny games. Also [Awesome-PICO-8](https://github.com/felipebueno/awesome-PICO-8)
 * [Code Kids](https://www.youtube.com/watch?v=6JGy8zmskbM)
 * [Bill Gates early days](https://www.youtube.com/watch?v=vYXQTrYPenQ) - Bill Gates remembers his early programming career
-
+* [Numerical Computing is Fun](https://github.com/eka-foundation/numerical-computing-is-fun)  - JupyterBook
 
 
 ## Computer Kits / Boards
@@ -230,6 +230,7 @@ with studio quality sound.
 
 ## Space
 * [Astro Pi](https://astro-pi.org) - Your code onboard the International Space Station!
+* [Mission to Mars Student Challenge](https://www.jpl.nasa.gov/edu/mission-to-mars-student-challenge/) - students exploring Mars with NASA scientists
 
 
 ## STEM
