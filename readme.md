@@ -129,6 +129,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 ## Electronics
 * [Circuit Maze](https://www.thinkfun.com/products/circuit-maze) - Arrange the tokens to create a real circuit.
 * [Crazy Circuits](https://www.browndoggadgets.com/pages/crazy-circuits) - Learn and create!
+* [Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 * [Little Bits](https://littlebits.com) - Hands-on electronic building blocks ([video](https://www.youtube.com/watch?v=8H91YN8Wg1o))
 * [ShenZhen I/O](http://www.zachtronics.com/shenzhen-io/) - Build real world cicuits
 
