@@ -42,6 +42,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 ## Books
 * [Ada Twist, Scientist](https://www.amazon.co.uk/Ada-Twist-Scientist-Andrea-Beaty/dp/1419721372/)
+* [EuroToolbox](https://eurolis.wordpress.com/eurotoolbox-2021/) - especial collection of EU literature for children in French, English, German, Italian, Polish, Portuguese and Spanish
 * [Hello Ruby: Adventures in Coding](https://www.helloruby.com) ([TED Talk](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers?language=en))
 * [Hello Ruby: Journey Inside the Computer](http://www.helloruby.com/books) ([TED Talk](https://www.ted.com/talks/linda_liukas_crawling_into_a_computer))
 * [Iggy Peck, Architect](https://www.amazon.co.uk/Iggy-Peck-Architect-Andrea-Beaty/dp/081091106X/)
@@ -51,7 +52,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Wonderbly](http://wonderbly.com) - Personalised books (former LostMyName)
 * [One Third Stories](https://onethirdstories.com) - stories the start in english and finish in another language
 ##### for parents
-*[Chess is Child's Play](https://www.amazon.co.uk/Chess-Childs-Play-Teaching-Techniques/dp/193627731X)
+* [Chess is Child's Play](https://www.amazon.co.uk/Chess-Childs-Play-Teaching-Techniques/dp/193627731X)
 * [Glow Kids: How Screen Addiction Is Hijacking Our Kids - and How to Break the Trance](https://www.amazon.com/dp/B01ARS7H5A/)
 
 
