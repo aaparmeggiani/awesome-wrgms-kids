@@ -26,6 +26,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Space](#space)
 * [STEM](#stem)
 * [TED Talks](#ted-talks)
+* [Wellness / Mindfulness](#wellness--mindfulness)
 * [YouTube Channels](#youtube-channels)  
 --
 * [Merchandise](#merch)
@@ -50,6 +51,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Wonderbly](http://wonderbly.com) - Personalised books (former LostMyName)
 * [One Third Stories](https://onethirdstories.com) - stories the start in english and finish in another language
 ##### for parents
+*[Chess is Child's Play](https://www.amazon.co.uk/Chess-Childs-Play-Teaching-Techniques/dp/193627731X)
 * [Glow Kids: How Screen Addiction Is Hijacking Our Kids - and How to Break the Trance](https://www.amazon.com/dp/B01ARS7H5A/)
 
 
@@ -116,6 +118,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Robotime](https://www.robotimeonline.com/collections/magic-crush) - marble run building kits ([video](https://www.youtube.com/watch?v=EDaFS8gBsNM))
 * [Easy Rubik's cube for Kids](https://www.youtube.com/watch?v=OkWCvVWCN8k) - simplified Dan Brown method
 * [Rubik's cube beginner tutorial](https://www.youtube.com/watch?v=7Ron6MN45LY)
+* [Rubik's Connected](https://getgocube.com/products/rubiks-connected/?2#original) - app enabled speed cube ([video](https://www.youtube.com/watch?v=xMYyWvNFiOw))
 * [Speedcubing](https://www.rubiks.com/en-us/speed-cubing) 
 * [Why We Cube](https://www.youtube.com/watch?v=1oZY2e25VUw) - a speedcubing documentary
 * [Why It's Almost Impossible to Solve a Rubik's Cube in Under 3 Seconds](https://www.youtube.com/watch?v=SUopbexPk3A) - WIRED documentary
@@ -256,10 +259,14 @@ with studio quality sound.
 * [The linguistic genius of babies](http://www.ted.com/talks/patricia_kuhl_the_linguistic_genius_of_babies.html) - Patricia Kuhl
 
 
+## Wellness / Mindfulness
+* [Breath like a Bear](https://www.amazon.co.uk/Breathe-Like-Bear-Mindful-Anywhere/dp/1789561159/) - mindful moments for kids (book)
+* [Cosmic Kids Yoga](https://www.youtube.com/user/CosmicKidsYoga) - Yoga, mindfulness and relaxation for kids. 
+* [The Workout Badges](https://www.youtube.com/playlist?list=PLyCLoPd4VxBvIsxs4yYGusHvaTq9vhN0H) - exercise and keep fit!
+
 ## YouTube Channels
 * [Blippi](https://www.youtube.com/user/BlippiVideos) - Educational Videos for Kids
 * [Crash Couse Kids](https://www.youtube.com/user/crashcoursekids) - From the creators of [Crash Course](https://www.youtube.com/user/crashcourse)
-* [Cosmic Kids Yoga](https://www.youtube.com/user/CosmicKidsYoga) - Yoga, mindfulness and relaxation for kids. 
 * [Elmo Celebritie's songs](https://www.youtube.com/watch?v=pWp6kkz-pnQ&list=PL6IS1VIT4jRAnyBJ7UMx-QGrgtf60zNLj) - by [Sesame Street](https://www.sesamestreet.org)
 * [LEGO channel](https://www.youtube.com/channel/UCP-Ng5SXUEt0VE-TXqRdL6g) - of course, they're on youtube too =)
 * [Physics Girl](https://www.youtube.com/c/physicsgirl) -  adventures into the physical sciences.
