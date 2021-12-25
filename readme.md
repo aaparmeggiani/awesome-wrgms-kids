@@ -12,10 +12,9 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Cycling](#cycling)
 * [Coding](#coding)
 * [Computer Kits / Boards](#computer-kits--boards)
-* [Dominoes, Marble runs & Rubik's cube](#dominoes-marble-runs--rubik's-cube)
 * [Education](#education)
 * [Electronics](#electronics)
-* [Games](#games)
+* [Games / Puzzles](#games--puzzles)
 * [Hacking Projects](#hacking-projects)
 * [IoT](#iot)
 * [Learning Platforms](#learning-platforms)
@@ -88,6 +87,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Beanz Magazine](https://www.kidscodecs.com) - Kids, code and computer science magazine
 * [BitsBox](https://bitsbox.com) - Monthly coding projects
 * [Computer Coding](https://www.amazon.com/DK-Workbooks-Computer-Coding/dp/146542685X) - book
+* [Cube-Composer](https://david-peter.de/cube-composer/) - puzzle inspired by functional programming
 * [Functions for kids](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/) - blog post
 * [Daisy the Dinossaur](https://itunes.apple.com/us/app/daisy-the-dinosaur/id490514278) - game
 * [Primo Toys](https://www.primotoys.com)
@@ -108,8 +108,20 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [BBC micro:bit](https://microbit.org) -  legacy for the original BBC Make It Digital project in which a million micro:bits were given to UK school children
 
 
+## Education
+* [Mensa for Kids](http://www.mensaforkids.org)
+* [Montessori](https://en.wikipedia.org/wiki/Montessori_education)
+* [Unschooling](https://en.wikipedia.org/wiki/Unschooling)
 
-## Dominoes, Marble runs & Rubik's cube
+## Electronics
+* [Circuit Maze](https://www.thinkfun.com/products/circuit-maze) - Arrange the tokens to create a real circuit.
+* [Crazy Circuits](https://www.browndoggadgets.com/pages/crazy-circuits) - Learn and create!
+* [Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
+* [Little Bits](https://littlebits.com) - Hands-on electronic building blocks ([video](https://www.youtube.com/watch?v=8H91YN8Wg1o))
+* [ShenZhen I/O](http://www.zachtronics.com/shenzhen-io/) - Build real world cicuits
+
+
+## Games / Puzzles
 * [Hevesh5](https://www.youtube.com/user/Hevesh5) - domino creations
 * [Joseph's Machines](https://www.youtube.com/user/allonewordplease) - youtube channel
 * [LEGO marble run challenge](https://www.youtube.com/watch?v=9f7mljBREHE) 
@@ -125,21 +137,8 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Why It's Almost Impossible to Solve a Rubik's Cube in Under 3 Seconds](https://www.youtube.com/watch?v=SUopbexPk3A) - WIRED documentary
 * [Lego Robot Rubik's Cube Solver](https://www.youtube.com/watch?v=Q8BYKwbwZSM)
 * [Fastest robot to solve a Rubik's Cube](https://www.youtube.com/watch?v=by1yz7Toick) - Guinness World Records
-## Education
-* [Mensa for Kids](http://www.mensaforkids.org)
-* [Montessori](https://en.wikipedia.org/wiki/Montessori_education)
-* [Unschooling](https://en.wikipedia.org/wiki/Unschooling)
-
-## Electronics
-* [Circuit Maze](https://www.thinkfun.com/products/circuit-maze) - Arrange the tokens to create a real circuit.
-* [Crazy Circuits](https://www.browndoggadgets.com/pages/crazy-circuits) - Learn and create!
-* [Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
-* [Little Bits](https://littlebits.com) - Hands-on electronic building blocks ([video](https://www.youtube.com/watch?v=8H91YN8Wg1o))
-* [ShenZhen I/O](http://www.zachtronics.com/shenzhen-io/) - Build real world cicuits
-
-
-## Games
 * [Think Fun](https://www.thinkfun.com) - Empowering minds through Play.
+* [Quizzity](https://david-peter.de/quizzity/) - guess the location of capitals and big cities around the world.
 
 
 ## Hacking Projects
@@ -183,6 +182,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [mud+bloom](https://www.mudandbloom.com) - connecting children with nature
 * [Pixlplay](http://pixltoys.com) - my first camera (?)
 * [Top 10 Lego Machines](https://www.youtube.com/watch?v=gHOKrHrmCbQ)
+* [Top 5 Educational Toys](https://www.mentalup.co/blog/educational-toys)
 
 
 ## Movies
