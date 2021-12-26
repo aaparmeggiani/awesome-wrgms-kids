@@ -25,6 +25,7 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Space](#space)
 * [STEM](#stem)
 * [TED Talks](#ted-talks)
+* [Toys](#toys)
 * [Wellness / Mindfulness](#wellness--mindfulness)
 * [YouTube Channels](#youtube-channels)  
 --
@@ -49,7 +50,12 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [The Week Junior](https://theweekjunior.co.uk) - printed magazine for children
 * [What Do You Do with an Idea?](https://www.amazon.co.uk/What-Do-You-Idea/dp/1938298071/)
 * [Wonderbly](http://wonderbly.com) - Personalised books (former LostMyName)
-* [One Third Stories](https://onethirdstories.com) - stories the start in english and finish in another language
+* [One Third Stories](https://onethirdstories.com) - stories the start in english and 
+finish in another language
+##### divorce, anyone?
+* [Two Homes](https://www.amazon.co.uk/Two-Homes-Claire-Masurel/dp/0744589258/)
+* [The invisible string](https://www.amazon.co.uk/Invisible-String-Patrice-Karst/dp/031648623X/)
+* [When I miss You](https://www.amazon.co.uk/When-Miss-You-Feel-Books/dp/0807589039/)
 ##### for parents
 * [Chess is Child's Play](https://www.amazon.co.uk/Chess-Childs-Play-Teaching-Techniques/dp/193627731X)
 * [Glow Kids: How Screen Addiction Is Hijacking Our Kids - and How to Break the Trance](https://www.amazon.com/dp/B01ARS7H5A/)
@@ -132,7 +138,8 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Easy Rubik's cube for Kids](https://www.youtube.com/watch?v=OkWCvVWCN8k) - simplified Dan Brown method
 * [Rubik's cube beginner tutorial](https://www.youtube.com/watch?v=7Ron6MN45LY)
 * [Rubik's Connected](https://getgocube.com/products/rubiks-connected/?2#original) - app enabled speed cube ([video](https://www.youtube.com/watch?v=xMYyWvNFiOw))
-* [Speedcubing](https://www.rubiks.com/en-us/speed-cubing) 
+* [Speedcubing](https://www.rubiks.com/en-us/speed-cubing)
+* [Story Time Chess](https://storytimechess.com/storytime-chess-the-game/) - teach chess through stories ([video](https://www.youtube.com/watch?v=s-ze2TcRzQM&))
 * [Why We Cube](https://www.youtube.com/watch?v=1oZY2e25VUw) - a speedcubing documentary
 * [Why It's Almost Impossible to Solve a Rubik's Cube in Under 3 Seconds](https://www.youtube.com/watch?v=SUopbexPk3A) - WIRED documentary
 * [Lego Robot Rubik's Cube Solver](https://www.youtube.com/watch?v=Q8BYKwbwZSM)
@@ -172,17 +179,10 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Learn Quick](https://www.youtube.com/channel/UCIRiWCPZoUyZDbydIqitHtQ) - Learn new things every week
 
 ## Misc
-* [Microbrite](https://carson.com/products/microbrite-plus-mm-300/) - Mi first microscope (?)
-* [Goldieblox](https://www.goldieblox.com) - Award-winning construction toys for girls! #morethanjustaprincess  #giveagirlatoolbox
 * [IdeaPaint](http://www.ideapaint.com) - Write on your walls!
 * [Lightboard](https://lightboard.info) - Write on your videos! ([video](https://www.youtube.com/watch?v=wCOuu0-o5YI))
 * [Light Painting](https://www.youtube.com/watch?v=CFlgMdiZHhc) - Write on your photos! 
-* [Makedo](https://int.make.do/) - Cardboard construction toolkit
-* [Montessori Toys](https://www.thebump.com/a/montessori-toys) - Toys with a purpose
-* [mud+bloom](https://www.mudandbloom.com) - connecting children with nature
-* [Pixlplay](http://pixltoys.com) - my first camera (?)
 * [Top 10 Lego Machines](https://www.youtube.com/watch?v=gHOKrHrmCbQ)
-* [Top 5 Educational Toys](https://www.mentalup.co/blog/educational-toys)
 
 
 ## Movies
@@ -191,7 +191,6 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 
 
 ## Music
-
 * [Learning Music](https://learningmusic.ableton.com/) - Learn the fundamentals of music making right in your browser.
 * [Learning Synths](https://learningsynths.ableton.com/) - Get started with synthesis using a web-based synth and accompanying lessons.
 
@@ -218,7 +217,6 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 #### Other
 * [Pocket Operators](https://teenageengineering.com/now/youtube) - Small, ultra portable music devices,
 with studio quality sound.
-
 
 
 ## Robotics
@@ -259,11 +257,21 @@ with studio quality sound.
 * [Easy DIY projects for kid engineers](http://www.ted.com/talks/fawn_qiu_easy_diy_projects_for_kid_engineers) - Fawn Qiw
 * [The linguistic genius of babies](http://www.ted.com/talks/patricia_kuhl_the_linguistic_genius_of_babies.html) - Patricia Kuhl
 
+## Toys
+* [Goldieblox](https://www.goldieblox.com) - Award-winning construction toys for girls! #morethanjustaprincess  #giveagirlatoolbox
+* [Makedo](https://int.make.do/) - Cardboard construction toolkit
+* [Melissa & Doug](https://www.melissaanddoug.com) - Timeless toys for todlers.
+* [Microbrite](https://carson.com/products/microbrite-plus-mm-300/) - Mi first microscope (?)
+* [Montessori Toys](https://www.thebump.com/a/montessori-toys) - Toys with a purpose
+* [Pixlplay](http://pixltoys.com) - my first camera (?)
+* [Top 5 Educational Toys](https://www.mentalup.co/blog/educational-toys)
 
 ## Wellness / Mindfulness
 * [Breath like a Bear](https://www.amazon.co.uk/Breathe-Like-Bear-Mindful-Anywhere/dp/1789561159/) - mindful moments for kids (book)
 * [Cosmic Kids Yoga](https://www.youtube.com/user/CosmicKidsYoga) - Yoga, mindfulness and relaxation for kids. 
+* [mud+bloom](https://www.mudandbloom.com) - connecting children with nature
 * [The Workout Badges](https://www.youtube.com/playlist?list=PLyCLoPd4VxBvIsxs4yYGusHvaTq9vhN0H) - exercise and keep fit!
+
 
 ## YouTube Channels
 * [Blippi](https://www.youtube.com/user/BlippiVideos) - Educational Videos for Kids
