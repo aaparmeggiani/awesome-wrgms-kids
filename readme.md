@@ -47,15 +47,14 @@ _" I want to sell millions of toys, but what I really hope is that a bunch of ki
 * [Hello Ruby: Journey Inside the Computer](http://www.helloruby.com/books) ([TED Talk](https://www.ted.com/talks/linda_liukas_crawling_into_a_computer))
 * [Iggy Peck, Architect](https://www.amazon.co.uk/Iggy-Peck-Architect-Andrea-Beaty/dp/081091106X/)
 * [Rosie Revere, Engineer](https://www.amazon.co.uk/Rosie-Revere-Engineer-Andrea-Beaty/dp/1419708457/)
-* [The Week Junior](https://theweekjunior.co.uk) - printed magazine for children
 * [What Do You Do with an Idea?](https://www.amazon.co.uk/What-Do-You-Idea/dp/1938298071/)
 * [Wonderbly](http://wonderbly.com) - Personalised books (former LostMyName)
 * [One Third Stories](https://onethirdstories.com) - stories the start in english and 
 finish in another language
-##### divorce, anyone?
-* [Two Homes](https://www.amazon.co.uk/Two-Homes-Claire-Masurel/dp/0744589258/)
-* [The invisible string](https://www.amazon.co.uk/Invisible-String-Patrice-Karst/dp/031648623X/)
-* [When I miss You](https://www.amazon.co.uk/When-Miss-You-Feel-Books/dp/0807589039/)
+##### magazines
+* [Beanz Magazine](https://www.kidscodecs.com) - Kids, code and computer science magazine
+* [The Week Junior](https://theweekjunior.co.uk) - printed magazine for children
+* [OYLA](https://www.oyla.uk/) - printed magazine for STEM learning
 ##### for parents
 * [Chess is Child's Play](https://www.amazon.co.uk/Chess-Childs-Play-Teaching-Techniques/dp/193627731X)
 * [Glow Kids: How Screen Addiction Is Hijacking Our Kids - and How to Break the Trance](https://www.amazon.com/dp/B01ARS7H5A/)
@@ -90,13 +89,13 @@ finish in another language
 * [jashmenn/teaching-kids-programming](https://github.com/jashmenn/teaching-kids-programming)
 #### Other
 * [A Programming flow chart for kids](https://medium.com/young-coder/a-programming-flow-chart-for-kids-983cbaff8038) - some ideas about what to learn first
-* [Beanz Magazine](https://www.kidscodecs.com) - Kids, code and computer science magazine
 * [BitsBox](https://bitsbox.com) - Monthly coding projects
 * [Computer Coding](https://www.amazon.com/DK-Workbooks-Computer-Coding/dp/146542685X) - book
 * [Cube-Composer](https://david-peter.de/cube-composer/) - puzzle inspired by functional programming
 * [Functions for kids](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/) - blog post
 * [Daisy the Dinossaur](https://itunes.apple.com/us/app/daisy-the-dinosaur/id490514278) - game
 * [Primo Toys](https://www.primotoys.com)
+* [Pygame](https://pygame.org) - set of Python modules designed for writing video games
 * [LEGO Coding Express](https://education.lego.com/en-us/products/coding-express/45025) - Inspire early learners to explore early coding concepts
 * [LEGO Microgames](https://unity.com/lego) - make and share microgames using Unity/Lego.
 * [PICO-8](https://www.lexaloffle.com/pico-8.php) - Fantasy console for making, sharing and playing tiny games. Also [Awesome-PICO-8](https://github.com/felipebueno/awesome-PICO-8)
@@ -112,7 +111,8 @@ finish in another language
 * [Boolean Box](https://booleangirltech.com) - Computer & coding kit for girls
 * [Kano](https://kano.me) - Make your own computer
 * [BBC micro:bit](https://microbit.org) -  legacy for the original BBC Make It Digital project in which a million micro:bits were given to UK school children
-
+* [Pockit](https://pockit.ai) - card sized modular computer, build of blocks
+([video](https://www.youtube.com/watch?v=b3F9OtH2Xx4))
 
 ## Education
 * [Mensa for Kids](http://www.mensaforkids.org)
@@ -238,6 +238,7 @@ with studio quality sound.
 
 ## STEM
 * [Mathigon](https://mathigon.org) - Interactive Maths.
+* [NRICH](https://nrich.maths.org/) - enrich the mathematical experiences of all learners.(University of Cambridge)
 * [KiwiCo](kiwico.com) - STEM Projects for Kids of all ages.
 * [LEGO Education](https://education.lego.com) : [pre](https://education.lego.com/preschool/intro)
 | [primary](https://education.lego.com/primary/intro)
@@ -275,6 +276,7 @@ with studio quality sound.
 
 ## YouTube Channels
 * [Blippi](https://www.youtube.com/user/BlippiVideos) - Educational Videos for Kids
+* [Boxlapse](https://www.youtube.com/c/Boxlapse) - weekly timelapse vegs.
 * [Crash Couse Kids](https://www.youtube.com/user/crashcoursekids) - From the creators of [Crash Course](https://www.youtube.com/user/crashcourse)
 * [Elmo Celebritie's songs](https://www.youtube.com/watch?v=pWp6kkz-pnQ&list=PL6IS1VIT4jRAnyBJ7UMx-QGrgtf60zNLj) - by [Sesame Street](https://www.sesamestreet.org)
 * [LEGO channel](https://www.youtube.com/channel/UCP-Ng5SXUEt0VE-TXqRdL6g) - of course, they're on youtube too =)
