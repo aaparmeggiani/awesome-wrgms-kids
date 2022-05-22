@@ -139,7 +139,7 @@ finish in another language
 * [Easy Rubik's cube for Kids](https://www.youtube.com/watch?v=OkWCvVWCN8k) - simplified Dan Brown method
 * [Rubik's cube beginner tutorial](https://www.youtube.com/watch?v=7Ron6MN45LY)
 * [Rubik's Connected](https://getgocube.com/products/rubiks-connected/?2#original) - app enabled speed cube ([video](https://www.youtube.com/watch?v=xMYyWvNFiOw))
-* [Rukik's Magic](https://www.youtube.com/watch?v=-8SUYy3x3_w) - Magic by Steven Brundage ([trick revealed](https://www.youtube.com/watch?v=u2KsLJPKwfc))
+* [Rukik's Magic](https://www.youtube.com/watch?v=-8SUYy3x3_w) - by Steven Brundage ([revealed here](https://www.youtube.com/watch?v=u2KsLJPKwfc))
 * [Speedcubing](https://www.rubiks.com/en-us/speed-cubing)
 * [Juggling/Solving Rukik cubues ](https://www.youtube.com/watch?v=q6AsllXpKBU) - Guinness World Records
 * [Story Time Chess](https://storytimechess.com/storytime-chess-the-game/) - teach chess through stories ([video](https://www.youtube.com/watch?v=s-ze2TcRzQM&))
