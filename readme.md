@@ -80,6 +80,7 @@ finish in another language
 * [Logo](https://www.kidscodecs.com/logo-programming-language/)
 * [Scratch](https://scratch.mit.edu/) ([wiki](https://wiki.scratch.mit.edu/wiki/Scratch_Wiki_Home)) - visual programming language developed by the MIT Media Lab.
 * [ScratchJr](https://www.scratchjr.org/) - Scratch for 5-7 year olds.
+* [Try Elixir](https://try-elixir.herokuapp.com)
 * [HacketyHack](https://en.wikipedia.org/wiki/Hackety_Hack) - Gone?
 #### Other Lists
 * [Coding Resources for Kids](https://gist.github.com/craigsssmith/9c6528ae485aec09f292)
@@ -139,6 +140,7 @@ finish in another language
 * [Rubik's cube beginner tutorial](https://www.youtube.com/watch?v=7Ron6MN45LY)
 * [Rubik's Connected](https://getgocube.com/products/rubiks-connected/?2#original) - app enabled speed cube ([video](https://www.youtube.com/watch?v=xMYyWvNFiOw))
 * [Speedcubing](https://www.rubiks.com/en-us/speed-cubing)
+* [Juggling/Solving Rukik cubues ](https://www.youtube.com/watch?v=q6AsllXpKBU) - Guinness World Records
 * [Story Time Chess](https://storytimechess.com/storytime-chess-the-game/) - teach chess through stories ([video](https://www.youtube.com/watch?v=s-ze2TcRzQM&))
 * [Why We Cube](https://www.youtube.com/watch?v=1oZY2e25VUw) - a speedcubing documentary
 * [Why It's Almost Impossible to Solve a Rubik's Cube in Under 3 Seconds](https://www.youtube.com/watch?v=SUopbexPk3A) - WIRED documentary
@@ -163,6 +165,7 @@ finish in another language
 * [Spaceship Panel](https://imgur.com/gallery/dqK7A)
 * [Live Train Station Sign](https://www.balena.io/blog/build-a-raspberry-pi-powered-train-station-oled-sign-for-your-desk/)
 * [Web sites and fairy lights](https://www.youtube.com/watch?v=aAYRClMSUzg)
+* [Making a Steam Engine](https://www.youtube.com/watch?v=Sp8FMqgc5Io)
 
 
 ## IoT
@@ -183,6 +186,7 @@ finish in another language
 * [Lightboard](https://lightboard.info) - Write on your videos! ([video](https://www.youtube.com/watch?v=wCOuu0-o5YI))
 * [Light Painting](https://www.youtube.com/watch?v=CFlgMdiZHhc) - Write on your photos! 
 * [Top 10 Lego Machines](https://www.youtube.com/watch?v=gHOKrHrmCbQ)
+* [Walkie talkies](https://www.youtube.com/watch?v=iZnz9GIiDJM) - A begginers guide to families
 
 
 ## Movies
@@ -271,6 +275,7 @@ with studio quality sound.
 * [Breath like a Bear](https://www.amazon.co.uk/Breathe-Like-Bear-Mindful-Anywhere/dp/1789561159/) - mindful moments for kids (book)
 * [Cosmic Kids Yoga](https://www.youtube.com/user/CosmicKidsYoga) - Yoga, mindfulness and relaxation for kids. 
 * [mud+bloom](https://www.mudandbloom.com) - connecting children with nature
+* [ParkRun Junior](https://www.parkrun.org.uk/events/juniorevents) - Parkrun for kids .. go find yours now!
 * [The Workout Badges](https://www.youtube.com/playlist?list=PLyCLoPd4VxBvIsxs4yYGusHvaTq9vhN0H) - exercise and keep fit!
 
 
