@@ -5,6 +5,8 @@
 
 _" I want to sell millions of toys, but what I really hope is that a bunch of kids who open them up use the motors and things to build something else... They are my colleagues of the future. "_  -- Mark Tilden
 
+_" Have you figured out the second head fake? "_ -- Randy Pausch, [Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)
+
 
 ## Contents
 * [Animation](#animation)
